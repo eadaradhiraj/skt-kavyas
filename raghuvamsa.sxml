@@ -41,36 +41,50 @@
 )
 
 (vg @id 1.5
-(v
-  (w @pc "सः अहम् आ-जन्म-शुद्धानाम् आ-फल-उदय-कर्मणाम्" @m "he is I, of those who are pure form birth and who do deeds until fruition" सोऽहमाजन्मशुद्धानामाफलोदयकर्मणाम्)
-।)
-(v
-  (w @pc "आ-समुद्र-क्षितीशानाम् आ-नाक-रथ-वर्त्मनाम्" @m "of the kings who rule unto the oceans, of the those whose chariots have pathways upto the heavens" आसमुद्रक्षितीशानामानाकरथवर्त्मनाम्)
-॥)
+  (v
+    (w @pc "सः अहम् आ-जन्म-शुद्धानाम् आ-फल-उदय-कर्मणाम्" @m "he is I, of those who are pure form birth and who do deeds until fruition" सोऽहमाजन्मशुद्धानामाफलोदयकर्मणाम्)
+  ।)
+  (v
+    (w @pc "आ-समुद्र-क्षितीशानाम् आ-नाक-रथ-वर्त्मनाम्" @m "of the kings who rule unto the oceans, of the those whose chariots have pathways upto the heavens" आसमुद्रक्षितीशानामानाकरथवर्त्मनाम्)
+  ॥)
 )
 
 (vg @id 1.6
-(v
-  (w @pc "यथा-विधि-हुत-अग्नीनाम्" @m "of those who perform sacrifices as ordained" यथाविधिहुताग्नीनां)
-  (w @pc "यथा-काम-अर्चित-अर्थिनाम्" @m "of those who fulfilled the desires of the supplicants" यथाकामार्चितार्थिनाम्)
-।)
-(v
-  (w @pc "यथा-अपराथ-दण्डानाम्" @m "of those who punish as per the crimes" यथापराथदण्डानां)
-  (w @pc "यथा-काल-प्रबोधिनाम्" @m "of those who wake up in a timely manner (for justice)" यथाकालप्रबोधिनाम्)
-॥)
+  (v
+    (w @pc "यथा-विधि-हुत-अग्नीनाम्" @m "of those who perform sacrifices as ordained" यथाविधिहुताग्नीनां)
+    (w @pc "यथा-काम-अर्चित-अर्थिनाम्" @m "of those who fulfilled the desires of the supplicants" यथाकामार्चितार्थिनाम्)
+  ।)
+  (v
+    (w @pc "यथा-अपराथ-दण्डानाम्" @m "of those who punish as per the crimes" यथापराथदण्डानां)
+    (w @pc "यथा-काल-प्रबोधिनाम्" @m "of those who wake up in a timely manner (for justice)" यथाकालप्रबोधिनाम्)
+  ॥)
 )
 
 (vg @id 1.6
-(v
-  (w @m "for the sake of sacrificing" त्यागाय)
-  (w @pc "संभृत-अर्थानाम्" @m "of those who have ammassed riches" संभृतार्थानां)
-  (w @m "for truth" सत्याय)
-  (w @m "of those whose speech is controlled" मितभाषिणाम्)
-।)
-(v
-  (w @m "for fame" यशसे)
-  (w @m "of those who want to win" विजिगीषूणां)
-  (w @m "for progeny" प्रजायै)
-  (w @m "becomes a householder" गृहमेधिनाम्)
-॥)
+  (v
+    (w @m "for the sake of sacrificing" त्यागाय)
+    (w @pc "संभृत-अर्थानाम्" @m "of those who have ammassed riches" संभृतार्थानां)
+    (w @m "for truth" सत्याय)
+    (w @m "of those whose speech is controlled" मितभाषिणाम्)
+  ।)
+  (v
+    (w @m "for fame" यशसे)
+    (w @m "of those who want to win" विजिगीषूणां)
+    (w @m "for progeny" प्रजायै)
+    (w @m "becomes a householder" गृहमेधिनाम्)
+  ॥)
+)
+
+(vg @id 1.8
+  (v
+    (w @pc "शैशवे अभ्यस्त-विद्यानां" @m "of those who engaged in studies in adoloscence" शैशवेऽभ्यस्तविद्यानां)
+    (w @m "in youth" यौवने)
+    (w @pc "विषये एषिणाम्" @m "of those desiring material pleasures" विषयैषिणाम्)
+  ।)
+  (v
+    (w @m "in old age" वार्धके)
+    (w @pc "मुनि-वृत्तीनाम्" @m "of those with saint-like activities" मुनिवृत्तीनां)
+    (w @pc "योगेन अन्ते" @m "by enjoining onself with the absolute in the end" योगेनान्ते)
+    (W @pc "तनुत्-यजाम्" @m "of those who leave their bodies" तनुत्यजाम्)
+  ॥)
 )
