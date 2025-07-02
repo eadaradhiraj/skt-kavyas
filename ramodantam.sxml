@@ -1,0 +1,83 @@
+(vg @id "1"
+  (v
+    (w @pc "श्रीपतिम्" @m "to the Lord of Shri (Vishnu)" श्रीपतिं)
+    (w @pc "प्रणिपत्य अहम्" @m "I, having bowed down" प्रणिपत्याहं)
+    (w @pc "श्रीवत्स-अङ्कित-वक्षसम्" @m "to him whose chest is marked with the Srivatsa" श्रीवत्साङ्कितवक्षसम्)
+    ।
+  )
+  (v
+    (w @pc "श्री-राम-उदन्तम् आख्यास्ये" @m "I will narrate the story of Shri Rama" श्रीरामोदन्तमाख्यास्ये)
+    (w @pc "श्री-वाल्मीकि-प्रकीर्तितम्" @m "celebrated by the glorious Valmiki" श्रीवाल्मीकिप्रकीर्तितम्)
+    ॥
+  )
+)
+
+(vg @id "2"
+  (v
+    (w @m "in the past" पुरा)
+    (w @m "of Vishravas" विश्रवसः)
+    (w @pc "पुत्रः" @m "a son" पुत्रो)
+    (w @pc "रावणः" @m "Ravana" रावणो)
+    (w @m "by name" नाम)
+    (w @m "a rakshasa" राक्षसः)
+    ।
+  )
+  (v
+    (w @pc "आसीत् अस्य अनुजौ" @m "he had two younger brothers" आसीदस्यानुजौ)
+    (w @pc "च आस्ताम्" @m "and they were" चास्तां)
+    (w @pc "कुम्भकर्ण-विभीषणौ" @m "Kumbhakarna and Vibhishana" कुम्भकर्णविभीषणौ)
+    ॥
+  )
+)
+
+(vg @id "3"
+  (v
+    (w @m "they" ते)
+    (w @m "indeed" तु)
+    (w @m "by severe" तीव्रेण)
+    (w @m "penance" तपसा)
+    (w @m "having made visible" प्रत्यक्षीकृत्य)
+    (w @m "the Creator (Brahma)" वेधसम्)
+    ।
+  )
+  (v
+    (w @m "they chose" वव्रिरे)
+    (w @m "and" च)
+    (w @pc "वरान् इष्टान्" @m "desired boons" वरानिष्टान्)
+    (w @pc "अस्मात् आश्रित-वत्सलात्" @m "from him who is affectionate to his dependents" अस्मादाश्रितवत्सलात्)
+    ॥
+  )
+)
+
+(vg @id "4"
+  (v
+    (w @pc "रावणः" @m "Ravana" रावणो)
+    (w @pc "मानुषात् अन्यैः अवध्यत्वं" @m "invincibility from others than humans" मानुषादन्यैरवध्यत्वं)
+    (w @pc "तथा अनुजः" @m "and likewise his brother" तथानुजः)
+    ।
+  )
+  (v
+    (w @pc "निर्देवत्व-इच्छया" @m "with a desire for godlessness" निर्देवत्वेच्छया)
+    (w @m "sleep" निद्रां)
+    (w @pc "कुम्भकर्णः अवृणीत" @m "Kumbhakarna chose" कुम्भकर्णोऽवृणीत)
+    (w @m "and" च)
+    ॥
+  )
+)
+
+(vg @id "5"
+  (v
+    (w @pc "विभीषणः" @m "Vibhishana" विभीषणो)
+    (w @pc "विष्णु-भक्तिं" @m "devotion to Vishnu" विष्णुभक्तिं)
+    (w @m "chose" वव्रे)
+    (w @pc "सत्त्व-गुण-अन्वितः" @m "endowed with the Sattva quality" सत्त्वगुणान्वितः)
+    ।
+  )
+  (v
+    (w @pc "तेभ्यः" @m "to them" तेभ्य)
+    (w @pc "एतान् वरान् दत्त्वा" @m "having given these boons" एतान्वरान्दत्त्वा)
+    (w @pc "तत्र एव अन्तर्दधे" @m "disappeared right there" तत्रैवान्तर्दधे)
+    (w @m "the Lord" प्रभुः)
+    ॥
+  )
+)
