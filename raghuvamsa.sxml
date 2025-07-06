@@ -1739,3 +1739,95 @@ Of course. Here are the shlokas from Raghuvamsha 2.11 to 2.15, converted into yo
 ॥
 )
 )
+
+(vg @id "2.16"
+(v
+(w @pc "ताम्" @m "Her," तां)
+(w @pc "देवता-पितृ-अतिथि-क्रिया-अर्थाम्" @m "who was for the purpose of rites to gods, ancestors, and guests," देवतापित्रतिथिक्रियार्थाम्)
+(w @pc "अन्वक् ययौ" @m "he followed" अन्वग्ययौ)
+(w @pc "मध्यम-लोक-पालः" @m "the protector of the middle world" मध्यमलोकपालः)
+।
+)
+(v
+(w @m "shone" बभौ)
+(w @m "and" च)
+(w @m "she" सा)
+(w @m "with him," तेन)
+(w @pc "सतां मतेन" @m "honored by the virtuous," सतां मतेन)
+(w @pc "श्रद्धा इव" @m "like Faith personified" श्रद्धेव)
+(w @pc "साक्षात् विधिना उपपन्ना" @m "visibly united with the sacred rite" साक्षाद्विधिनोपपन्ना)
+॥
+)
+)
+
+(vg @id "2.17"
+(v
+(w @pc "सः" @m "He" स)
+(w @pc "वल्वल-उत्तीर्ण-वराह-यूथानि आवास-वृक्ष-उन्मुख-बर्हिणानि" @m "(forests) with herds of boars emerged from mud-pits, and with peacocks facing their roosting trees," वल्वलोत्तीर्णवराहयूथान्यावासवृक्षोन्मुखबर्हिणानि)
+।
+)
+(v
+(w @m "went" ययौ)
+(w @pc "मृग-अध्यासित-शाद्वलानि" @m "(forests) with grassy lawns occupied by deer," मृगाध्यासितशाद्वलानि)
+(w @m "which were growing dark" श्यामायमानानि)
+(w @m "the forests" वनानि)
+(w @m "seeing" पश्यन्)
+॥
+)
+)
+
+(vg @id "2.18"
+(v
+(w @pc "आपीन-भार-उद्वहन-प्रयत्नात् गृष्टिः" @m "The once-calved cow, from the effort of carrying her full udder," आपीनभारोद्वहनप्रयत्नाद्गृष्टिर्)
+(w @pc "गुरुत्वात् वपुषः" @m "and from the weight of his body," गुरुत्वाद्वपुषो)
+(w @m "the king" नरेन्द्रः)
+।
+)
+(v
+(w @m "both" उभौ)
+(w @pc "अलञ्चक्रतुः अञ्चिताभ्याम्" @m "adorned, with their graceful" अलंचक्रतुरञ्चिताभ्याम्)
+(w @pc "तपोवन-आवृत्ति-पथम्" @m "the path of return to the hermitage" तपोवनावृत्तिपथं)
+(w @m "gaits" गताभ्याम्)
+॥
+)
+)
+
+(vg @id "2.19"
+(v
+(w @pc "वसिष्ठ-धेनोः अनुयायिनम्" @m "him, the follower of Vashistha's cow," वसिष्ठधेनोरनुयायिनं)
+(w @pc "तम् आवर्तमानम्" @m "him, who was returning," तमावर्तमानं)
+(w @m "his wife" वनिता)
+(w @pc "वन-अन्तात्" @m "from the edge of the forest" वनान्तात्)
+।
+)
+(v
+(w @m "drank (with her eyes)" पपौ)
+(w @pc "निमेष-अलस-पक्ष्म-पङ्क्तिः" @m "she whose rows of eyelashes were languid from not blinking," निमेषालसपक्ष्मपङ्क्तिर्)
+(w @pc "उपोषिताभ्याम् इव" @m "as if with (two eyes) that had fasted," उपोषिताभ्यामिव)
+(w @m "with her two eyes" लोचनाभ्याम्)
+॥
+)
+)
+
+Of course. This is a beautiful shloka with a famous simile. Here it is in your requested format.
+
+The second line contains a complex phonetic word (धेनुर्दिनक्षपामध्यगतेव) where the subject of the sentence (धेनुः) is joined by sandhi to the words that form the simile. I have preserved this structure and explained the components in the @pc tag.
+
+(vg @id "2.20"
+(v
+(w @m "Placed in front" पुरस्कृता)
+(w @m "on the path" वर्त्मनि)
+(w @m "by the king" पार्थिवेन)
+(w @m "Met" प्रत्युद्गता)
+(w @pc "पार्थिव-धर्म-पत्न्या" @m "by the king's lawful wife" पार्थिवधर्मपत्न्या)
+।
+)
+(v
+(w @pc "तत्-अन्तरे" @m "Between those two," तदन्तरे)
+(w @m "she" सा)
+(w @m "shone" विरराज)
+(w @pc "धेनुः दिन-क्षपा-मध्य-गता इव" @m "the cow, like one situated between day and night" धेनुर्दिनक्षपामध्यगतेव)
+(w @m "the twilight" सन्ध्या)
+॥
+)
+)
