@@ -1928,3 +1928,95 @@ The second line contains a complex phonetic word (धेनुर्दिनक
 ॥
 )
 )
+
+(vg @id "2.26"
+(v
+(w @pc "अन्येद्युः आत्म-अनुचरस्य" @m "On the next day, of her own attendant," अन्येद्युरात्मानुचरस्य)
+(w @m "the disposition" भावं)
+(w @m "wishing to test" जिज्ञासमाना)
+(w @pc "मुनि-होम-धेनुः" @m "the sage's sacrificial cow")
+।
+)
+(v
+(w @pc "गङ्गा-प्रपात-अन्त-विरूढ-शष्पम्" @m "where young grass grew near the Ganga's waterfalls," गङ्गाप्रपातान्तविरूढशष्पं)
+(w @pc "गौरी-गुरोः गह्वरम् आविवेश" @m "entered a cave of the Himalaya (Gauri's father)" गौरीगुरोर्गह्वरमाविवेश)
+॥
+)
+)
+
+Of course. This shloka describes the sudden attack on the cow. The first line contains a very long compound adjective and a complex sandhi chain. I have parsed it to reflect the correct grammatical and metrical structure.
+
+(vg @id "2.27"
+(v
+(w @m "She" सा)
+(w @m "is unassailable" दुष्प्रधर्षा)
+(w @pc "मनसा अपि" @m "even by mind" मनसापि)
+(w @m "by predators;" हिंस्रैः)
+(w @pc "इति अद्रि-शोभा-प्रहित-ईक्षणेन" @m "thus [he thought], whose gaze was fixed on the mountain's beauty" इत्यद्रिशोभाप्रहितेक्षणेन)
+।
+)
+(v
+(w @pc "अलक्षित-अभ्युत्पतनः नृपेण" @m "whose pounce was unseen by the king," अलक्षिताभ्युत्पतनो नृपेण)
+(w @m "violently" प्रसह्य)
+(w @m "a lion" सिंहः)
+(w @m "indeed" किल)
+(w @m "her" तां)
+(w @m "seized" चकर्ष)
+॥
+)
+)
+
+(vg @id "2.28"
+(v
+(w @pc "तदीयम् आक्रन्दितम्" @m "Her cry" तदीयमाक्रन्दितम्)
+(w @pc "आर्त-साधोः" @m "of him who is the protector of the afflicted," आर्तसाधोर्)
+(w @pc "गुहा-निबद्ध-प्रतिशब्द-दीर्घम्" @m "long with an echo bound in the cave," गुहानिबद्धप्रतिशब्ददीर्घम्)
+।
+)
+(v
+(w @pc "रश्मिषु इव आदाय" @m "as if having grasped by the reins," रश्मिष्विवादाय)
+(w @pc "नग-इन्द्र-सक्ताम्" @m "which was fixed on the lord of mountains," नगेन्द्रसक्तां)
+(w @m "turned back" निवर्तयामास)
+(w @pc "नृपस्य दृष्टिम्" @m "the king's gaze" नृपस्य दृष्टिम्)
+॥
+)
+)
+
+(vg @id "2.29"
+(v
+(w @pc "सः" @m "He" स)
+(w @pc "पाटलायाम् गवि" @m "on the reddish-brown cow" पाटलायां गवि)
+(w @m "standing" तस्थिवांसं)
+(w @pc "धनुः-धरः" @m "the bow-bearer" धनुर्धरः)
+(w @m "the lion" केसरिणं)
+(w @m "saw" ददर्श)
+।
+)
+(v
+(w @pc "अधित्यकायाम् इव" @m "as if on a mountain plateau" अधित्यकायामिव)
+(w @pc "धातु-मय्याम्" @m "rich with minerals," धातुमय्यां)
+(w @pc "लोध्र-द्रुमम्" @m "a Lodhra tree" लोध्रद्रुमं)
+(w @m "of the mountain" सानुमतः)
+(w @m "in full bloom" प्रफुल्लम्)
+॥
+)
+)
+
+(vg @id "2.30"
+(v
+(w @m "Then" ततो)
+(w @pc "मृग-इन्द्रस्य" @m "of the king of beasts (the lion)," मृगेन्द्रस्य)
+(w @pc "मृग-इन्द्र-गामी" @m "he with the gait of a lion," मृगेन्द्रगामी)
+(w @m "for the slaying" वधाय)
+(w @m "of the one to be slain," वध्यस्य)
+(w @m "an arrow" शरं)
+(w @m "the refuge-giver" शरण्यः)
+।
+)
+(v
+(w @pc "जात-अभिषङ्गः" @m "enraged" जाताभिषङ्गो)
+(w @pc "नृपतिः निषङ्गात् उद्धर्तुम् ऐच्छत्" @m "the king wished to draw from his quiver," नृपतिर्निषङ्गादुद्धर्तुमैच्छत्)
+(w @pc "प्रसह-उद्धृत-अरिः" @m "he who uproots enemies by force" प्रसभोद्धृतारिः)
+॥
+)
+)
