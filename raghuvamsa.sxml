@@ -35,7 +35,7 @@
 (v (w @m "in a diamond" मणौ)
 (w @pc "वज्र-समुत्कीर्णे" @m "in which a hole has been done by a diamond" वज्रसमुत्कीर्णे)
 (w @pc "सूत्रस्य एव अस्ति" @m "it is indeed that of the thread" सूत्रस्येवास्ति)
-(w @m "mine" मे)
+(w @pc "मम" @m "mine" मे)
 (w @m "pace" गतिः)
 ॥)
 )
@@ -926,7 +926,7 @@ Of course. Here are the shlokas you provided, converted into your specified form
 (w @m "surely" ननु)
 (w @pc "शिवम्" @m "the well-being" शिवं)
 (w @pc "सप्तसु अङ्गेषु" @m "in the seven limbs (of the state)" सप्तस्वङ्गेषु)
-(w @m "of whom, for me" यस्य मे)
+(w @pc "यस्य मम" @m "of whom, of me" यस्य मे)
 ।
 )
 (v
@@ -948,7 +948,7 @@ Of course. Here are the shlokas you provided, converted into your specified form
 )
 (v
 (w @pc "प्रत्यादिश्यन्ते इव" @m "as if they surpass" प्रत्यादिश्यन्त इव)
-(w @m "my" मे)
+(w @pc "मम" @m "my" मे)
 (w @pc "दृष्ट-लक्ष्य-भिदः" @m "of one who hit a visible target" दृष्टलक्ष्यभिदः)
 (w @m "arrows" शराः)
 ॥
@@ -998,7 +998,7 @@ Of course. Here are the shlokas you provided, converted into your specified form
 (w @pc "स-अनुबन्धाः" @m "with their consequences (unbroken)" सानुबन्धाः)
 (w @pc "कथं न स्युः" @m "how would they not be" कथं न स्युः)
 (w @pc "संपदः" @m "the prosperities" संपदो)
-(w @m "my" मे)
+(w @pc "मम" @m "my" मे)
 (w @pc "निर्-आपदः" @m "of one who is free from misfortune" निरापदः)
 ॥
 )
@@ -1107,7 +1107,7 @@ Of course. Here are the shlokas you provided, converted into your specified form
 (vg @id "1.71"
 (v
 (w @pc "असह्य-पीडं भगवन्" @m "with unbearable pain, O revered one," असह्यपीडं भगवन्)
-(w @pc "ऋणम् अन्त्यम् अवेहि मे" @m "know my final debt" ऋणमन्त्यमवेहि मे)
+(w @pc "ऋणम् अन्त्यम् अवेहि मम" @m "know my final debt" ऋणमन्त्यमवेहि मे)
 ।
 )
 (v
@@ -2121,6 +2121,711 @@ Of course. This shloka describes the sudden attack on the cow. The first line co
 (w @pc "स्कन्दस्य मातुः" @m "of Skanda's mother (Parvati)")
 (w @pc "पयसाम्" @m "of the milks" पयसां)
 (w @m "is the taster" रसज्ञः)
+॥
+)
+)
+
+(vg @id "2.37"
+(v
+(w @pc "कण्डूयमानेन कटम्" @m "By one rubbing its temples" कण्डूयमानेन कटं)
+(w @m "once" कदाचिद्)
+(w @pc "वन्य-द्विपेन" @m "by a wild elephant")
+(w @pc "उन्मथिता त्वक् अस्य" @m "was rubbed off, the bark of this one")
+।
+)
+(v
+(w @m "Then" अथ)
+(w @pc "एनम् अद्रेः तनया" @m "for this one, the daughter of the mountain" अथैनमद्रेस्तनया)
+(w @m "grieved" शुशोच)
+(w @pc "सेनान्यम् आलीढम् इव" @m "like the army-commander (Skanda) wounded")
+(w @pc "असुर-अस्त्रैः" @m "by the weapons of the Asuras" असुरास्त्रैः)
+॥
+)
+)
+
+(vg @id "2.38"
+(v
+(w @pc "तदा-प्रभृति एव" @m "From that very time onwards" तदाप्रभृत्येव)
+(w @pc "वन-द्विपानाम्" @m "of the wild elephants")
+(w @pc "त्रास-अर्थम् अस्मिन्" @m "for the purpose of frightening, in this" त्रासार्थमस्मिन्)
+(w @pc "अहम् अद्रि-कुक्षौ" @m "I, in the mountain cave")
+।
+)
+(v
+(w @m "was appointed" व्यापरितः)
+(w @pc "शूल-भृता" @m "by the trident-bearer (Shiva)" शूलभृता)
+(w @m "having established" विधाय)
+(w @pc "सिंहत्वम् अङ्क-आगत-सत्त्व-वृत्ति" @m "(my) lion-state, whose activity is the sustenance on creatures that come into its lap" सिंहत्वमङ्कागतसत्त्ववृत्ति)
+॥
+)
+)
+
+(vg @id "2.39"
+(v
+(w @pc "तस्य अलम् एषा" @m "For that one (me), this (cow) is sufficient" तस्यालमेषा)
+(w @pc "क्षुधितस्य तृप्त्यै" @m "for the satisfaction of my hunger" क्षुधितस्य तृप्त्यै)
+(w @pc "प्रदिष्ट-काला" @m "at the fore-ordained time" प्रदिष्टकाला)
+(w @pc "परम-ईश्वरेण" @m "by the Supreme Lord" परमेश्वरेण)
+।
+)
+(v
+(w @m "has appeared" उपस्थिता)
+(w @pc "शोणित-पारणा मम" @m "my blood-feast" शोणितपारणा मे)
+(w @pc "सुर-द्विषः चान्द्रमसी सुधा इव" @m "like the moon's nectar for the foe of the gods (Rahu)" सुरद्विषश्चान्द्रमसी सुधेव)
+॥
+)
+)
+
+(vg @id "2.40"
+(v
+(w @pc "सः त्वम् निवर्तस्व" @m "Therefore, you, turn back" स त्वं निवर्तस्व)
+(w @m "having given up" विहाय)
+(w @pc "लज्जाम्" @m "shame" लज्जां)
+(w @pc "गुरोः भवान् दर्शित-शिष्य-भक्तिः" @m "you have shown devotion to your guru" गुरोर्भवान्दर्शितशिष्यभक्तिः)
+।
+)
+(v
+(w @m "by a weapon" शस्त्रेण)
+(w @pc "रक्ष्यम्" @m "what is worthy of protection" रक्ष्यं)
+(w @pc "यत् अशक्य-रक्षम्" @m "which is impossible to protect" यदशक्यरक्षं)
+(w @pc "न तत् यशः" @m "that does not tarnish the fame" न तद्यशः)
+(w @pc "शस्त्र-भृताम्" @m "of weapon-bearers" शस्त्रभृतां)
+(w @m "tarnish" क्षिणोति)
+॥
+)
+)
+
+(vg @id "2.41"
+(v
+(w @m "Thus" इति)
+(w @pc "प्रगल्भम्" @m "the bold" प्रगल्भं)
+(w @pc "पुरुष-अधिराजः" @m "the emperor of men" पुरुषाधिराजो)
+(w @pc "मृग-अधिराजस्य" @m "of the king of beasts" मृगाधिराजस्य)
+(w @pc "वचः" @m "speech" वचो)
+(w @m "having heard" निशम्य)
+।
+)
+(v
+(w @pc "प्रति-आहत-अस्त्रः" @m "he whose weapon was repelled" प्रत्याहतास्त्रो)
+(w @pc "गिरिश-प्रभावात्" @m "due to Shiva's power," गिरिशप्रभावाद्)
+(w @pc "आत्मनि अवज्ञाम्" @m "the contempt for himself," आत्मन्यवज्ञां)
+(w @m "he relaxed" शिथिलीचकार)
+॥
+)
+)
+
+(vg @id "2.42"
+(v
+(w @pc "प्रत्यब्रवीत् च एनम्" @m "And he replied to him" प्रत्यब्रवीच्चैनम्)
+(w @pc "इषु-प्रयोगे तत्-पूर्व-भङ्गे" @m "when the shooting of the arrow was previously thwarted," इषुप्रयोगे तत्पूर्वभङ्गे)
+(w @pc "वितथ-प्रयत्नः" @m "he whose effort was in vain," वितथप्रयत्नः)
+।
+)
+(v
+(w @pc "जडीकृतः त्र्यम्बक-वीक्षणेन" @m "paralyzed by the glance of the three-eyed one," जडीकृतस्त्र्यम्बकवीक्षणेन)
+(w @pc "वज्रम्" @m "a thunderbolt" वज्रं)
+(w @pc "मुमुक्षन् इव" @m "like one wishing to release" मुमुक्षन्निव)
+(w @pc "वज्र-पाणिः" @m "the wielder of the thunderbolt (Indra)" वज्रपाणिः)
+॥
+)
+)
+
+(vg @id "2.43"
+(v
+(w @pc "संरुद्ध-चेष्टस्य मृगेन्द्र" @m "O king of beasts, for one whose movements are restrained," संरुद्धचेष्टस्य मृगेद्र)
+(w @pc "कामम्" @m "indeed" कामं)
+(w @pc "हास्यम्" @m "laughable" हास्यं)
+(w @pc "वचः तत् यत्" @m "is that speech which" वचस्तद्यद्)
+(w @pc "अहं विवक्षुः" @m "I wish to say" अहं विवक्षुः)
+।
+)
+(v
+(w @pc "अन्तर्-गतम्" @m "The inner" अन्तर्गतं)
+(w @pc "प्राण-भृताम् हि" @m "of living beings, indeed," प्राणभृतां हि)
+(w @m "knows" वेद)
+(w @pc "सर्वम्" @m "everything" सर्वं)
+(w @m "you" भवान्)
+(w @pc "भावम् अतः अभिधास्ये" @m "the thought, therefore I shall speak" भावमतोऽभिधास्ये)
+॥
+)
+)
+
+(vg @id "2.44"
+(v
+(w @m "Honorable" मान्यः)
+(w @pc "सः" @m "he (Shiva) is" स)
+(w @pc "मम" @m "of me" मे)
+(w @pc "स्थावर-जंगमानाम्" @m "of the mobile and immobile," स्थावरजंगमानां)
+(w @pc "सर्ग-स्थिति-प्रत्यवहार-हेतुः" @m "the cause of creation, sustenance, and dissolution")
+।
+)
+(v
+(w @pc "गुरोः अपि इदम्" @m "but also, this of my guru," गुरोरपीदं)
+(w @m "wealth" धनम्)
+(w @pc "आहित-अग्नेः" @m "who has established the sacred fires" आहितग्नेर्)
+(w @pc "नश्यत् पुरस्तात्" @m "perishing before my eyes")
+(w @m "is not to be neglected" अनुपेक्षणीयम्)
+॥
+)
+)
+
+(vg @id "2.45"
+(v
+(w @pc "सः त्वम्" @m "He who is you" स त्वं)
+(w @m "with my" मदीयेन)
+(w @pc "शरीर-वृत्तिम्" @m "your sustenance," शरीरवृत्तिं)
+(w @m "with my body" देहेन)
+(w @pc "निर्वर्तयितुम् प्रसीद" @m "be pleased to accomplish it" निर्वर्तयितुं प्रसीद)
+।
+)
+(v
+(w @pc "दिन-अवसान-उत्सुक-बाल-वत्सा" @m "whose young calf is eager at the close of day" दिनावसानोत्सुकबालवत्सा)
+(w @m "should be released" विसृज्यतां)
+(w @pc "धेनुः इयम् महर्षेः" @m "let this cow of the great sage (be freed)" धेनुरियं महर्षेः)
+॥
+)
+)
+
+(vg @id "2.46"
+(v
+(w @m "Then" अथ)
+(w @pc "अन्धकारम्" @m "the darkness" अन्धकारं)
+(w @pc "गिरि-गह्वराणाम्" @m "of the mountain caves" गिरिगह्वराणां)
+(w @pc "दंष्ट्रा-मयूखैः" @m "with the rays from his fangs" दंष्ट्रामयूखैः)
+(w @pc "शकलानि कुर्वन्" @m "making into pieces")
+।
+)
+(v
+(w @m "again" भूयः)
+(w @pc "सः" @m "he" स)
+(w @pc "भूत-ईश्वर-पार्श्व-वर्ती" @m "the attendant of the lord of beings" भूतेश्वरपार्श्ववर्ती)
+(w @pc "किञ्चित् विहस्य" @m "smiling a little" किंचिद्विहस्य)
+(w @pc "अर्थ-पतिम्" @m "to the lord of wealth (the king)" अर्थपतिं)
+(w @m "spoke" बभाषे)
+॥
+)
+)
+
+(vg @id "2.47"
+(v
+(w @pc "एक-आतपत्रम्" @m "Sole-sovereignty (under one parasol)" एकातपत्रं)
+(w @pc "जगतः प्रभुत्वम्" @m "dominion over the world" जगतः प्रभुत्वं)
+(w @pc "नवम् वयः" @m "youth" नवं वयः)
+(w @pc "कान्तम् इदम् वपुः च" @m "and this lovely body" कान्तमिदं वपुश्च)
+।
+)
+(v
+(w @pc "अल्पस्य हेतोः" @m "For a small reason," अल्पस्य हेतोर्)
+(w @m "much" बहु)
+(w @pc "हातुम् इच्छन्" @m "wishing to abandon," हातुमिच्छन्)
+(w @pc "विचार-मूढः" @m "confused in judgement" विचारमूढः)
+(w @m "you appear" प्रतिभासि)
+(w @pc "मम" @m "of(to) me" मे)
+(w @m "you" त्वम्)
+॥
+)
+)
+
+(vg @id "2.48"
+(v
+(w @pc "भूत-अनुकम्पा तव" @m "If your compassion is for creatures" भूतानुकम्पा तव)
+(w @pc "चेत् इयम्" @m "and if this")
+(w @pc "गौः एका भवेत्" @m "single cow will be" गौरेका भवेत्)
+(w @pc "स्वस्ति-मती त्वत्-अन्ते" @m "prosperous at your demise,")
+।
+)
+(v
+(w @m "living" जीवन्)
+(w @m "again" पुनः)
+(w @m "forever" शश्वत्)
+(w @pc "उपप्लवेभ्यः" @m "from calamities" उपप्लवेभ्यः)
+(w @m "your subjects" प्रजाः)
+(w @m "O lord of subjects" प्रजानाथ)
+(w @pc "पिता इव" @m "like a father" पितेव)
+(w @m "you will protect" पासि)
+॥
+)
+)
+
+(vg @id "2.49"
+(v
+(w @pc "अथ एक-धेनोः (कृते) अपराध-चण्डात्" @m "Or, if from the wrath on account for one cow's transgression" अथैकधेनोरपराधचण्डाद्)
+(w @pc "गुरोः कृशानु-प्रतिमाद्" @m "from your guru, who is like fire," गुरोः कृशानुप्रतिमाद्)
+(w @m "you are afraid" बिभेषि)
+।
+)
+(v
+(w @m "It is possible" शक्यः)
+(w @pc "अस्य मन्युः" @m "his anger" अस्य मन्युर्)
+(w @m "by you" भवता)
+(w @m "to be appeased" विनेतुं)
+(w @pc "गाः कोटिशः स्पर्शयता" @m "by making him touch cows by the crores" गाः कोटिशः स्पर्शयता)
+(w @pc "घट-ऊध्नीः" @m "with pot-like udders" घटोध्नीः)
+॥
+)
+)
+
+(vg @id "2.50"
+(v
+(w @pc "तत् रक्ष" @m "Therefore protect" तद्रक्ष)
+(w @pc "कल्याण-परम्पराणाम्" @m "of a series of auspicious things" कल्याणपरम्पराणां)
+(w @m "the enjoyer" भोक्तारम्)
+(w @m "vigorous" ऊर्जस्वलम्)
+(w @pc "आत्म-देहम्" @m "your own body")
+।
+)
+(v
+(w @pc "मही-तल-स्पर्शन-मात्र-भिन्नम्" @m "distinguished only by touching the surface of the earth" महीतलस्पर्शनमात्रभिन्नम्)
+(w @pc "ऋद्धम्" @m "prosperous" ऋद्धं)
+(w @m "for indeed" हि)
+(w @pc "राज्यम्" @m "the kingdom" राज्यं)
+(w @pc "पदम् ऐन्द्रम् आहुः" @m "the position called the state of Indra" पदमैन्द्रमाहुः)
+॥
+)
+)
+
+(vg @id "2.51"
+(v
+(w @pc "एतावत् उक्त्वा" @m "Having said this much," एतावदुक्त्वा)
+(w @pc "विरते मृगेन्द्रे" @m "when the king of beasts fell silent" विरते मृगेन्द्रे)
+(w @pc "प्रतिस्वनेन अस्य" @m "by his echo" प्रतिस्वनेनास्य)
+(w @pc "गुहा-गतेन" @m "which had entered the cave," गुहागतेन)
+।
+)
+(v
+(w @pc "शिल-उच्चयः अपि" @m "the mountain also" शिलोच्चयोऽपि)
+(w @pc "क्षिति-पालम् उच्चैः" @m "to the protector of the earth loudly" क्षितिपालमुच्चैः)
+(w @m "with affection" प्रीत्या)
+(w @pc "तम् एव अर्थम्" @m "that very same meaning" तमेवार्थम्)
+(w @pc "अभाषत इव" @m "seemed to speak" अभाषतेव)
+॥
+)
+)
+
+(vg @id "2.52"
+(v
+(w @m "Having heard" निशम्य)
+(w @pc "देव-अनुचरस्य" @m "of the god's attendant" देवानुचरस्य)
+(w @pc "वाचम्" @m "the speech" वाचं)
+(w @pc "मनुष्य-देवः" @m "the god among men" मनुष्यदेवः)
+(w @pc "पुनः अपि उवाच" @m "again spoke" पुनरप्युवाच)
+।
+)
+(v
+(w @pc "धेन्वा तत्" @m "by that cow," धेन्वा तद्)
+(w @pc "अध्यासित-कातर-अक्ष्या" @m "whose eyes were timid with distress" अध्यासितकातराक्ष्या)
+(w @m "being watched" निरीक्ष्यमाणः)
+(w @pc "दयालुम्" @m "exceedingly" सुतरां)
+(w @m "compassionate" दयालुः)
+॥
+)
+)
+
+(vg @id "2.53"
+(v
+(w @pc "क्षतात् किल त्रायते" @m "Indeed, 'he protects from harm'," क्षतात्किल त्रायते)
+(w @pc "इति उदग्रः" @m "thus, celebrated" इत्युदग्रः)
+(w @pc "क्षत्रस्य शब्दः" @m "word 'kshatra'" क्षत्रस्य शब्दो)
+(w @pc "भुवनेषु रूढः" @m "is renowned in the worlds")
+।
+)
+(v
+(w @pc "राज्येन किम्" @m "What is the use of a kingdom," राज्येन किं)
+(w @pc "तत्-विपरीत-वृत्तेः" @m "for one of opposite conduct," तद्विपरीतवृत्तेः)
+(w @pc "प्राणैः उपक्रोश-मलीमसैः वा" @m "or of a life stained by reproach?" प्राणैरुपक्रोशमलीमसैर्वा)
+॥
+)
+)
+
+(vg @id "2.54"
+(v
+(w @m "How indeed" कथं नु)
+(w @m "is possible" शक्यः)
+(w @pc "अनुनयः महर्षेः" @m "the appeasement of the great sage," अनुनयो महर्षेर्)
+(w @pc "विश्राणनात् च अन्य-पयस्विनाम्" @m "by giving other milch cows" विश्राणनाच्चान्यपयस्विनाम्)
+।
+)
+(v
+(w @pc "इमाम् अनूनाम्" @m "This one, not less than" इमामनूनां)
+(w @pc "सुरभेः अवेहि" @m "know her to be Surabhi" सुरभेरवेहि)
+(w @pc "रुद्र-ओजसा तु" @m "but by Rudra's power" रुद्रौजसा तु)
+(w @pc "प्रहृतम् त्वया अस्याम्" @m "you have struck her" प्रहृतं त्वयास्याम्)
+॥
+)
+)
+
+(vg @id "2.55"
+(v
+(w @pc "सा इयं स्व-देह-अर्पण-निष्क्रयेण" @m "She, therefore, by the ransom of offering my own body" सेयं स्वदेहार्पणनिष्क्रयेण)
+(w @m "is proper" न्याय्या)
+(w @m "by me" मया)
+(w @pc "मोचयितुम् भवत्तः" @m "to be freed from you" मोचयितुं भवत्तः)
+।
+)
+(v
+(w @pc "न पारणा स्यात्" @m "The breaking of your fast would not be" न पारणा स्याद्)
+(w @m "interrupted" विहता)
+(w @pc "तव एवं" @m "for you, in this way," तवैवं)
+(w @pc "भवेत् अ-लुप्तः च" @m "and there would be no loss" भवेदलुप्तश्च)
+(w @pc "मुनेः क्रिया-अर्थः" @m "of the sage's ritual purpose" मुनेः क्रियार्थः)
+॥
+)
+)
+
+(vg @id "2.56"
+(v
+(w @pc "भवान् अपि इदम्" @m "You also this" भवानपीदं)
+(w @pc "परवान् अवैति" @m "being subordinate, know this:" परवानवैति)
+(w @pc "महान् हि यत्नः" @m "for great is the effort" महान्हि यत्नस्)
+(w @pc "तव देवदारौ" @m "of yours in the Deodar tree")
+।
+)
+(v
+(w @pc "स्थातुम् नियोक्तुः" @m "To stand before one's employer" स्थातुं नियोक्तुर्न)
+(w @pc "न हि शक्यम् अग्रे" @m "is indeed not possible" हि शक्यमग्रे)
+(w @m "having destroyed" विनाश्य)
+(w @pc "रक्ष्यम्" @m "what should be protected" रक्ष्यं)
+(w @m "oneself" स्वयम्)
+(w @pc "अक्षतेन" @m "being unharmed" अक्षतेन)
+॥
+)
+)
+
+(vg @id "2.57"
+(v
+(w @pc "किम् अपि अहिंस्यः" @m "If in some way I am not to be killed by you," किमप्यहिंस्यस्)
+(w @pc "तव चेत् मतः अहम्" @m "if I am so considered by you," तव चेन्मतोऽहं)
+(w @pc "यशस्-शरीरे भव मे दयालुः" @m "be merciful to my body of fame")
+।
+)
+(v
+(w @pc "एकान्त-विध्वंसिषु" @m "In things which are sure to perish" एकान्तविध्वंसिषु)
+(w @pc "मत्-विधानाम्" @m "for those like me" मद्विधानं)
+(w @pc "पिण्डेषु अनास्था" @m "there is indifference towards the body-masses" पिण्डेष्वनास्था)
+(w @m "certainly" खलु)
+(w @pc "भौतिकेषु" @m "made of elements" भौतिकेषु)
+॥
+)
+)
+
+(vg @id "2.58"
+(v
+(w @pc "संबन्धम् भाषण-पूर्वम् आहुः" @m "They say a relationship is preceded by conversation," संबन्धमाभाषणपूर्वमाहुर्)
+(w @pc "वृत्तः सः नौ(आवयोः) सङ्गतयोः" @m "and that has happened between us two who have met" वृत्तः स नौ सङ्गतयोर्)
+(w @pc "वन-अन्ते" @m "in this forest" वनान्ते)
+।
+)
+(v
+(w @pc "तत् भूत-नाथ-अनुग" @m "Therefore, O attendant of the Lord of Beings," तद्भूतनाथानुग)
+(w @pc "न अर्हसि त्वम्" @m "you should not" नार्हसि त्वं)
+(w @pc "संबन्धिनः मम" @m "of me, who is now your relation," संबन्धिनो मे)
+(w @pc "प्रणयम्" @m "request" प्रणयं)
+(w @m "to destroy" विहन्तुम्)
+॥
+)
+)
+
+(vg @id "2.59"
+(v
+(w @pc "तथा इति" @m "'So be it,' said" तथेति)
+(w @pc "गाम् उक्तवते" @m "to him who had released the cow's speech" गामुक्तवते)
+(w @m "Dilipa," दिलीपः)
+(w @pc "सद्यः प्रतिष्टम्भ-विमुक्त-बाहुः" @m "his arm instantly freed from paralysis,")
+।
+)
+(v
+(w @pc "सन् न्यस्त-शस्त्रः" @m "having laid down his weapon," सन्न्यस्तशस्त्रो)
+(w @m "for the lion" हरये)
+(w @pc "स्व-देहम् उपानयत्" @m "offered his own body," स्वदेहमुपानयत्)
+(w @pc "पिण्डम् इव आमिषस्य" @m "like a lump of flesh" पिण्डमिवामिषस्य)
+॥
+)
+)
+
+(vg @id "2.60"
+(v
+(w @pc "तस्मिन् क्षणे" @m "At that moment," तस्मिन्क्षणे)
+(w @pc "पालयितुः प्रजानाम्" @m "as the protector of the people," पालयितुः प्रजानाम्)
+(w @pc "उत्पश्यतः" @m "was looking up," उत्पश्यतः)
+(w @pc "सिंह-निपातम् उग्रम्" @m "at the terrible pounce of the lion," सिंहनिपातमुग्रम्)
+।
+)
+(v
+(w @pc "अवाक्-मुखस्य उपरि" @m "upon his down-turned face," अवाङ्मुखस्योपरि)
+(w @pc "पुष्प-वृष्टिः" @m "a rain of flowers" पुष्पवृष्टिः)
+(w @m "fell" पपात)
+(w @pc "विद्याधर-हस्त-मुक्ता" @m "released from the hands of the Vidyadharas" विद्याधरहस्तमुक्ता)
+॥
+)
+)
+
+(vg @id "2.61"
+(v
+(w @pc "उत्तिष्ठ वत्स इति" @m "'Arise, my child!' Thus" उत्तिष्ठ वत्सेत्य्)
+(w @pc "अमृतायमानम् वचः निशम्य" @m "having heard the nectar-like words" अमृतायमानं वचो निशम्योत्थितम्)
+(w @pc "उत्थितः सन्" @m "having arisen," उत्थितः सन्)
+।
+)
+(v
+(w @m "saw" ददर्श)
+(w @m "the king" राजा)
+(w @pc "जननीम् इव स्वाम्" @m "like his own mother," जननीमिव स्वां)
+(w @pc "गाम्" @m "the cow" गां)
+(w @m "in front" अग्रतः)
+(w @pc "प्रस्रविणीम्" @m "flowing with milk" प्रस्रविणीं)
+(w @pc "न सिंहम्" @m "not the lion" न सिंहम्)
+॥
+)
+)
+
+(vg @id "2.62"
+(v
+(w @pc "तम् विस्मितम्" @m "To him, the astonished one," तं विस्मितं)
+(w @pc "धेनुः उवाच" @m "the cow spoke," धेनुरुवाच)
+(w @m "O virtuous one" साधो)
+(w @pc "मायां मया उद्भाव्य" @m "an illusion was created by me" मायां मयोद्भाव्य)
+(w @pc "परीक्षितः असि" @m "you have been tested" परीक्षितोऽसि)
+।
+)
+(v
+(w @pc "ऋषि-प्रभावात्" @m "Due to the sage's power," ऋषिप्रभावान्)
+(w @pc "मयि न अन्तकः अपि" @m "over me, not even the God of Death," मयि नान्तकोऽपि)
+(w @m "is capable" प्रभुः)
+(w @m "to strike" प्रहर्तुं)
+(w @pc "किम् उत अन्य-हिंस्राः" @m "what to speak of other predators" किमुतान्यहिंस्राः)
+॥
+)
+)
+
+(vg @id "2.63"
+(v
+(w @pc "भक्त्या गुरौ" @m "Due to your devotion to the guru," भक्त्या गुरौ)
+(w @pc "मयि अनुकम्पया च" @m "and your compassion for me," मय्यनुकम्पया च)
+(w @pc "प्रीता अस्मि ते" @m "I am pleased with you" प्रीतास्मि ते)
+(w @m "O son" पुत्र)
+(w @m "a boon" वरं)
+(w @m "choose" वृणीष्व)
+।
+)
+(v
+(w @pc "न केवलानां पयसाम् प्रसूतिम्" @m "not merely a producer of milk" न केवलानां पयसां प्रसूतिम्)
+(w @m "know" अवेहि)
+(w @m "me" मां)
+(w @pc "काम-दुघाम् प्रसन्नाम्" @m "as a wish-fulfilling cow, when pleased" कामदुघां प्रसन्नाम्)
+॥
+)
+)
+
+(vg @id "2.64"
+(v
+(w @m "Then" ततः)
+(w @m "bringing together" समानीय)
+(w @pc "सः" @m "he," स)
+(w @pc "मानित-अर्थी" @m "whose request was honored," मानितार्थी)
+(w @m "his two hands" हस्तौ)
+(w @pc "स्व-हस्त-अर्जित-वीर-शब्दः" @m "he who had earned the title 'hero' with his own hands," स्वहस्तार्जितवीरशब्दः)
+।
+)
+(v
+(w @pc "वंशस्य कर्तारम्" @m "A founder of the dynasty," वंशस्य कर्तारम्)
+(w @pc "अनन्त-कीर्तिम्" @m "of endless fame," अनन्तकीर्तिं)
+(w @pc "सुदक्षिणायाम् तनयम्" @m "a son from Sudakshina," सुदक्षिणायां तनयं)
+(w @m "he requested" ययाचे)
+॥
+)
+)
+
+(vg @id "2.65"
+(v
+(w @pc "सन्तान-कामाय" @m "To him who desired progeny" सन्तानकामाय)
+(w @pc "तथा इति" @m "'So be it,' thus" तथेति)
+(w @m "a boon" कामं)
+(w @m "to the king" राज्ञे)
+(w @m "having promised" प्रतिश्रुत्य)
+(w @pc "पयस्विनी सा" @m "that milch cow")
+।
+)
+(v
+(w @m "having milked" दुग्ध्वा)
+(w @m "milk" पयः)
+(w @pc "पत्र-पुटे" @m "in a cup made of leaves," पत्रपुटे)
+(w @pc "मदीयम् पुत्र" @m "my (milk), O son" मदीयं पुत्र)
+(w @pc "उपभुङ्क्ष्व इति तम् आदिशे" @m "'consume it,' thus she instructed him" उपभुङ्क्ष्वेति तमदिदेश)
+॥
+)
+)
+
+(vg @id "2.66"
+(v
+(w @pc "वत्सस्य होम-अर्थ-विधेः च" @m "Of the calf and of the sacrificial rite," वत्सस्य होमार्थविधेश्च)
+(w @m "the remainder" शेषं)
+(w @pc "गुरोः अनुज्ञाम् अधिगम्य" @m "having obtained the guru's permission" गुरोरनुज्ञामधिगम्य)
+(w @m "O Mother" मातः)
+।
+)
+(v
+(w @pc "ऊधस्यम् इच्छामि तव उपभोक्तुम्" @m "I wish to consume the product of your udder" ऊधस्यमिच्छामि तवोपभोक्तुं)
+(w @pc "षष्ठ-अंशम् उर्व्या इव" @m "like the sixth part of the earth" षष्ठांशमुर्व्या इव)
+(w @pc "रक्षितायाः" @m "which has been protected" रक्षितायाः)
+॥
+)
+)
+
+(vg @id "2.67"
+(v
+(w @m "Thus" इत्थं)
+(w @pc "क्षितीशेन वसिष्ठ-धेनुः" @m "by the lord of the earth, Vashistha's cow" क्षितीशेन वसिष्ठधेनुर्)
+(w @m "being requested" विज्ञापिता)
+(w @pc "प्रीत-तरा बभूव" @m "became even more pleased" प्रीततरा बभूव)
+।
+)
+(v
+(w @pc "तत्-अन्विता" @m "Accompanied by him," तदन्विता)
+(w @pc "हैमवतात् च कुक्षेः" @m "and from the Himalayan cave" हैमवताच्च कुक्षेः)
+(w @m "returned" प्रत्याययौ)
+(w @m "the hermitage" आश्रमम्)
+(w @pc "अ-श्रमेण" @m "without fatigue" अश्रमेण)
+॥
+)
+)
+
+(vg @id "2.68"
+(v
+(w @pc "तस्याः प्रसन्न-इन्दु-मुख-प्रसादं" @m "Her favor, which was the serenity of her moon-like face" तस्याः प्रसन्नेन्दुमुखप्रसादं)
+(w @pc "गुरुः नृपाणाम्" @m "the preceptor of kings" गुरुर्नृपाणां)
+(w @m "to the guru" गुरवे)
+(w @m "having reported" निवेद्य)
+।
+)
+(v
+(w @pc "प्रहर्ष-चिह्न-अनुमितम्" @m "(the joy) inferred from the signs of great delight" प्रहर्षचिह्नानुमितं)
+(w @pc "प्रियायै शशंस" @m "he announced to his beloved (wife)" प्रियायै शशंस)
+(w @pc "वाचा पुनर्-उक्तम् एव" @m "with words that were mere repetition" वाचा पुनरुक्तमेव)
+॥
+)
+)
+
+(vg @id "2.69"
+(v
+(w @pc "सः" @m "He," स)
+(w @pc "नन्दिनी-स्तन्यम्" @m "Nandini's milk," नन्दिनीस्तन्यम्)
+(w @pc "अनिन्दित-आत्मा" @m "he of blameless soul," अनिन्दितात्मा)
+(w @pc "सत्-वत्सलः" @m "affectionate towards the virtuous," सद्वत्सलो)
+(w @pc "वत्स-हुत-अवशेषम्" @m "the remainder after the calf and the oblation," वत्सहुतावशेषम्)
+।
+)
+(v
+(w @m "drank" पपौ)
+(w @pc "वसिष्ठेन कृत-अभ्यनुज्ञः" @m "given permission by Vashistha" वसिष्ठेन कृताभ्यनुज्ञः)
+(w @m "white" शुभ्रं)
+(w @pc "यशः मूर्तम् इव" @m "like fame incarnate," यशोमूर्तमिव)
+(w @pc "अति-तृष्णः" @m "with great thirst" अतितृष्णः)
+॥
+)
+)
+
+(vg @id "2.70"
+(v
+(w @m "In the morning" प्रातः)
+(w @pc "यथा-उक्त-व्रत-पारण-अन्ते" @m "at the conclusion of the vow's prescribed breaking," यथोक्तव्रतपारणान्ते)
+(w @m "journey-related" प्रास्थानिकं)
+(w @pc "स्वस्ति-अयनम्" @m "rites for a prosperous journey" स्वस्त्ययनं)
+(w @m "having performed" प्रयुज्य)
+।
+)
+(v
+(w @pc "तौ दंपती" @m "those two, the couple," तौ दंपती)
+(w @pc "स्वाम् प्रति राजधानीम्" @m "towards their own capital city" स्वां प्रति राजधानीं)
+(w @pc "प्रस्थापयामास" @m "caused to depart")
+(w @pc "वशी वसिष्ठः" @m "the self-controlled Vashistha" वशी वसिष्ठः)
+॥
+)
+)
+
+(vg @id "2.71"
+(v
+(w @m "Having circumambulated" प्रदक्षिणीकृत्य)
+(w @m "the oblated" हुतं)
+(w @m "fire" हुताशम्)
+(w @m "next" अनन्तरं)
+(w @m "his master" भर्तुर)
+(w @m "Arundhati" अरुन्धतीं)
+(w @m "and" च)
+।
+)
+(v
+(w @m "the cow" धेनुं)
+(w @pc "स-वत्सां च" @m "and her with her calf," सवत्सां च)
+(w @pc "नृपः प्रतस्थे" @m "the king set forth" नृपः प्रतस्थे)
+(w @pc "सत्-मङ्गल-उदग्र-तर-प्रभावः" @m "his majesty heightened by auspicious blessings" सन्मङ्गलोदग्रतरप्रभावः)
+॥
+)
+)
+
+(vg @id "2.72"
+(v
+(w @pc "श्रोत्र-अभिराम-ध्वनिना" @m "With a sound pleasing to the ear," श्रोत्राभिरामध्वनिना)
+(w @m "with his chariot" रथेन)
+(w @pc "सः" @m "he" स)
+(w @pc "धर्म-पत्नी-सहितः" @m "accompanied by his lawful wife," धर्मपत्नीसहितः)
+(w @m "the patient one" सहिष्णुः)
+।
+)
+(v
+(w @m "travelled" ययौ)
+(w @pc "अनुद्घात-सुखेन" @m "with jolt-free comfort" अनुद्घातसुखेन)
+(w @m "the path" मार्गं)
+(w @pc "स्वेन इव पूर्णेन मनोरथेन" @m "as if by his own fulfilled desire" स्वेनेव पूर्णेन मनोरथेन)
+॥
+)
+)
+
+(vg @id "2.73"
+(v
+(w @pc "तम् आहित-औत्सुक्यम् अदर्शनेन" @m "him, who had caused anxiety by his absence," तमाहितौत्सुक्यमदर्शनेन)
+(w @pc "प्रजाः प्रजा-अर्थ-व्रत-कर्शित-अङ्गम्" @m "the people, him whose limbs were emaciated by the vow for progeny," प्रजाः प्रजार्थव्रतकर्शिताङ्गम्)
+।
+)
+(v
+(w @m "with their eyes" नेत्रैः)
+(w @pc "पपुः तृप्तिम् अनाप्नुवद्भिः" @m "drank, not obtaining satisfaction," पपुस्तृप्तिमनाप्नुवद्भिर्)
+(w @pc "नव-उदयं नाथम् इव ओषधीनाम्" @m "like the newly risen lord of the herbs (the moon)" नवोदयं नाथमिवौषधीनाम्)
+॥
+)
+)
+
+(vg @id "2.74"
+(v
+(w @pc "पुरन्दर-श्रीः" @m "He of Indra-like majesty" पुरन्दरश्रीः)
+(w @m "the city" पुरम्)
+(w @pc "उत्-पताकं" @m "with flags raised high" उत्पताकं)
+(w @m "having entered" प्रविश्य)
+(w @pc "पौरैः अभिनन्द्यमानः" @m "being hailed by the citizens," पौरैरभिनन्द्यमानः)
+।
+)
+(v
+(w @m "with his arm" भुजे)
+(w @pc "भुजङ्ग-इन्द्र-समान-सारे" @m "whose strength was equal to the king of serpents" भुजङ्गेन्द्रसमानसारे)
+(w @m "again" भूयः)
+(w @pc "सः" @m "he" स)
+(w @pc "भूमेः धुरम् आससञ्ज" @m "took up the yoke of the earth" भूमेर्धुरमाससञ्ज)
+॥
+)
+)
+
+(vg @id "2.75"
+(v
+(w @pc "अथ नयन-समुत्थम् ज्योतिः" @m "Then, like the light born from the eye" अथ नयनसमुत्थं ज्योतिर्)
+(w @pc "अत्रेः इव द्यौः" @m "of Atri, (which) heaven (conceived)" अत्रेरिव द्यौः)
+(w @pc "सुर-सरित् इव" @m "like the divine river (conceived)" सुरसरिदिव)
+(w @pc "तेजः वह्नि-निष्ठ्यूतम् ऐशम्" @m "the splendor of Shiva spit out from the fire")
+।
+)
+(v
+(w @pc "नरपति-कुल-भूत्यै" @m "For the prosperity of the line of kings" नरपतिकुलभूत्यै)
+(w @pc "गर्भम् आधत्त राज्ञी" @m "the queen conceived an embryo" गर्भमाधत्त राज्ञी)
+(w @pc "गुरुभिः अभिनिविष्टम्" @m "possessed of the great" गुरुभिरभिनिविष्टं)
+(w @pc "लोकपाल-अनुभावैः" @m "splendors of the world-protectors" लोकपालानुभावैः)
 ॥
 )
 )
