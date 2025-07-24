@@ -1,4 +1,4 @@
-(vg @id "1"
+(vg @id "1-1"
   (v
     (w @pc "श्रीपतिम्" @m "to the Lord of Shri (Vishnu)" श्रीपतिं)
     (w @pc "प्रणिपत्य अहम्" @m "I, having bowed down" प्रणिपत्याहं)
@@ -12,7 +12,7 @@
   )
 )
 
-(vg @id "2"
+(vg @id "1-2"
   (v
     (w @m "in the past" पुरा)
     (w @m "of Vishravas" विश्रवसः)
@@ -30,7 +30,7 @@
   )
 )
 
-(vg @id "3"
+(vg @id "1-3"
   (v
     (w @m "they" ते)
     (w @m "indeed" तु)
@@ -49,7 +49,7 @@
   )
 )
 
-(vg @id "4"
+(vg @id "1-4"
   (v
     (w @pc "रावणः" @m "Ravana" रावणो)
     (w @pc "मानुषात् अन्यैः अवध्यत्वं" @m "invincibility from others than humans" मानुषादन्यैरवध्यत्वं)
@@ -65,7 +65,7 @@
   )
 )
 
-(vg @id "5"
+(vg @id "1-5"
   (v
     (w @pc "विभीषणः" @m "Vibhishana" विभीषणो)
     (w @pc "विष्णु-भक्तिं" @m "devotion to Vishnu" विष्णुभक्तिं)
@@ -83,7 +83,7 @@
 )
 
 
-(vg @id "6"
+(vg @id "1-6"
 (v
 (w @pc "रावणः तु" @m "Ravana, however" रावणस्तु)
 (w @pc "ततः" @m "then" ततो)
@@ -103,7 +103,7 @@
 )
 )
 
-(vg @id "7"
+(vg @id "1-7"
 (v
 (w @pc "यातुधानाः ततः" @m "Then the Rakshasas" यातुधानास्ततः)
 (w @m "all" सर्वे)
@@ -119,7 +119,7 @@
 )
 )
 
-(vg @id "8"
+(vg @id "1-8"
 (v
 (w @pc "मन्दोदरीम्" @m "Mandodari" मन्दोदरीं)
 (w @pc "मय-सुताम्" @m "the daughter of Maya" मयसुतां)
@@ -135,7 +135,7 @@
 )
 )
 
-(vg @id "9"
+(vg @id "1-9"
 (v
 (w @pc "रसाम्" @m "the earth" रसां)
 (w @pc "रसातलम्" @m "and the netherworld" रसातलं)
@@ -155,7 +155,7 @@
 )
 )
 
-(vg @id "10"
+(vg @id "1-10"
 (v
 (w @pc "दूषयन् वैदिकम्" @m "Corrupting the Vedic" दूषयन्वैदिकं)
 (w @m "rites" कर्म)
