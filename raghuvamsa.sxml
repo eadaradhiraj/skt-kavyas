@@ -2849,45 +2849,61 @@ Of course. This shloka describes the sudden attack on the cow. The first line co
 
 (vg @id "3.2"
 (v
-(w @pc "शरीर-सादात् असमग्र-भूषणा" @m "due to tiredness of her body her ornaments incomplete" शरीरसादादसमग्रभूषणा)
-(w @pc "सा लोध्र-पाण्डुना मुखेन आलक्ष्यत" @m "she was perceived by her face, pale as the Lodhra flower" मुखेन सालक्ष्यत लोध्रपाण्डुना)
+(w @pc "शरीर-सादात् असमग्र-भूषणा" @m "she who, due to bodily languor, was incompletely adorned" शरीरसादादसमग्रभूषणा)
+(w @pc "मुखेन" @m "by her face" मुखेन)
+(w @pc "सा अलक्ष्यत" @m "she was perceived" सालक्ष्यत)
+(w @pc "लोध्र-पाण्डुना" @m "pale like the Lodhra flower" लोध्रपाण्डुना)
 |
 )
 (v
-(w @pc "प्रभात-कल्पा शर्वरी इव" @m "like a night at the brink of dawn" प्रभातकल्पा शर्वरी)
-(w @pc "तनु-प्रकाशेन शशिना" @m "with a faintly shining moon" तनुप्रकाशेन शशिनेव)
-(w @pc "विचेय-तारका" @m "and stars barely visible" विचेयतारका)
-॥
-)
-)
-(vg @id "3.3"
-(v
-(w @pc "क्षितीश्वरः" @m "The lord of the earth" क्षितीश्वरो)
-(w @pc "मृत्-सुरभि तत् आननम्" @m "that face smelling of the earth" तदाननं मृत्सुरभि)
-(w @pc "रहसि उपाघ्राय" @m "smelling in private" रहस्युपाघ्राय)
-(w @pc "न तृप्तिम् आययौ" @m "did not come to satisfaction" न तृप्तिमाययौ)
-|
-)
-(v
-(w @pc "करी इव" @m "Like an elephant" करीव)
-(w @pc "शुचि-व्यपाये" @m "at the end of summer" शुचिव्यपाये)
-(w @pc "पयोमुचाम् पृषतैः सिक्तम्" @m "sprinkled by the drops from clouds" सिक्तं पृषतैः पयोमुचां)
-(w @pc "वन-राजि-पल्वलम्" @m "a small pond in a forest tract" वनराजिपल्वलम्)
+(w @pc "तनु-प्रकाशेन" @m "with faint light" तनुप्रकाशेन)
+(w @pc "विचेय-तारका" @m "with barely visible stars" विचेयतारका)
+(w @pc "प्रभात-कल्पा" @m "like the dawn" प्रभातकल्पा)
+(w @pc "शशिना इव" @m "like by the moon" शशिनेव)
+(w @pc "शर्वरी" @m "the night" शर्वरी)
 ॥
 )
 )
 
-Generated code
+(vg @id "3.3"
+(v
+(w @pc "तत्-आननम्" @m "that face" तदाननं)
+(w @pc "मृत्-सुरभि" @m "fragrant with earth" मृत्सुरभि)
+(w @pc "क्षिति-ईश्वरः" @m "the lord of the earth" क्षितीश्वरो)
+(w @pc "रहसि उपाघ्राय" @m "having smelled in private" रहस्युपाघ्राय)
+(w @pc "न" @m "not" न)
+(w @pc "तृप्तिम् आययौ" @m "attained satisfaction" तृप्तिमाययौ)
+|
+)
+(v
+(w @pc "करी इव" @m "like an elephant" करीव)
+(w @pc "सिक्तम्" @m "sprinkled" सिक्तं)
+(w @pc "पृषतैः" @m "with drops" पृषतैः)
+(w @pc "पयस्-मुचाम्" @m "of the clouds" पयोमुचां)
+(w @pc "शुचि-व्यपाये" @m "at the end of the hot season" शुचिव्यपाये)
+(w @pc "वन-राजि-पल्वलम्" @m "a forest-pool" वनराजिपल्वलम्)
+॥
+)
+)
+
 (vg @id "3.4"
 (v
-(w @pc "दिवम् मरुत्वान् इव" @m "Like Indra (rules) heaven" दिवं मरुत्वानिव)
-(w @m "he will rule the earth" भोक्ष्यते भुवं)
-(w @pc "दिगन्त-विश्रान्त-रथः हि तत्-सुतः" @m "one whose chariot would rest at the world's end (becomes) indeed her son" दिगन्तविश्रान्तरथो हि तत्सुतः)
+(w @pc "दिवम्" @m "Heaven" दिवं)
+(w @pc "मरुत्वान् इव" @m "like Indra" मरुत्वानिव)
+(w @m "he will rule" भोक्ष्यते)
+(w @pc "भुवम्" @m "the earth" भुवं)
+(w @pc "दिगन्त-विश्रान्त-रथः" @m "he whose chariot rests at the world's end" दिगन्तविश्रान्तरथो)
+(w @m "indeed" हि)
+(w @pc "तत्-सुतः" @m "her son" तत्सुतः)
 ।
 )
 (v
-(w @pc "अतः अभिलाषे प्रथमम् तथाविधे" @m "Therefore on the first desire of such a kind," अतोऽभिलाषे प्रथमं तथाविधे)
-(w @pc "मनः बबन्ध अन्य-रसान् विलङ्घ्य" @m "she fixed her mind, having disregarded other tastes," मनो बबन्धान्यरसान्विलङ्घ्य)
+(w @pc "अतः अभिलाषे" @m "Therefore on the desire" अतोऽभिलाषे)
+(w @pc "प्रथमम्" @m "the first" प्रथमं)
+(w @m "of such a kind" तथाविधे)
+(w @pc "मनः" @m "mind" मनो)
+(w @m "she fixed" बबन्ध)
+(w @pc "अन्य-रसान् विलङ्घ्य" @m "having disregarded other tastes" अन्यरसान्विलङ्घ्य)
 (w @m "she" सा)
 ॥
 )
@@ -2895,26 +2911,61 @@ Generated code
 
 (vg @id "3.5"
 (v
-(w @pc "न मह्यं ह्रिया शंसति किञ्चित् ईप्सितम्" @m "'Out of shyness, she tells me no desire;" न मे ह्रिया शंसति किञ्चिदीप्सितं)
-(w @pc "स्पृहा-वती वस्तुषु केषु मागधी" @m "for which things is the princess of Magadha longing?'" स्पृहावती वस्तुषु केषु मागधी)
+(w @m "Not" न)
+(w @m "to me" मे)
+(w @m "out of shyness" ह्रिया)
+(w @m "she tells" शंसति)
+(w @pc "किञ्चित् ईप्सितम्" @m "any desire;" किंचिदीप्सितं)
+(w @pc "स्पृहा-वती" @m "longing" स्पृहावती)
+(w @m "in things" वस्तुषु)
+(w @m "in which things" केषु)
+(w @m "the princess of Magadha?" मागधी)
 ।
 )
 (v
-(w @pc "इति स्म पृच्छति अनुवेलम् आदृतः" @m "Thus would he ask, constantly and respectfully," इति स्म पृच्छत्यनुवेलमादृतः)
-(w @pc "प्रिया-सखीः उत्तर-कोसल-ईश्वरः" @m "his beloved's dear friends, the lord of North Kosala." प्रियासखीरुत्तरकोसलेश्वरः)
+(w @m "Thus" इति)
+(w @m "[past tense marker]" स्म)
+(w @pc "पृच्छति अनुवेलम् आदृतः" @m "he would ask constantly and respectfully," पृच्छत्यनुवेलमादृतः)
+(w @pc "प्रिया-सखीः उत्तर-कोसल-ईश्वरः" @m "his beloved's friends, the lord of North Kosala." प्रियासखीरुत्तरकोसलेश्वरः)
 ॥
 )
 )
 (vg @id "3.6"
 (v
-(w @pc "उपेत्य सा दोहद-दुःख-शीलताम्" @m "Having reached the painful state of pregnancy cravings, she" उपेत्य सा दोहददुःखशीलतां)
-(w @pc "यत् एव वव्रे" @m "whatever she desired," यदेव वव्रे)
-(w @pc "तत् अपश्यत् आहृतम्" @m "she saw it brought to her." तदपश्यदाहृतम्)
+(w @m "Having reached" उपेत्य)
+(w @m "she" सा)
+(w @pc "दोहद-दुःख-शीलताम्" @m "the painful state of cravings" दोहददुःखशीलतां)
+(w @pc "यत् एव" @m "whatever indeed" यदेव)
+(w @m "she desired" वव्रे)
+(w @pc "तत् अपश्यत् आहृतम्" @m "that she saw brought" तदपश्यदाहृतम्)
 |
 )
 (v
-(w @pc "न हि इष्टम् अस्य त्रिदिवे अपि भूपतेः" @m "For no desired object of this king, even in heaven," न हीष्टमस्य त्रिदिवेऽपि भूपतेः)
-(w @pc "अभूत् अनासाद्यम् अधिज्य-धन्वनः" @m "was unobtainable for him whose bow was strung." अभूदनासाद्यमधिज्यधन्वनः)
+(w @m "Not" न)
+(w @m "for" हि)
+(w @pc "ईष्टम् अस्य" @m "a desired object of his" ईष्टमस्य)
+(w @pc "त्रिदिवे अपि" @m "even in heaven" त्रिदिवेऽपि)
+(w @m "of the king" भूपतेः)
+(w @pc "अभूत् अनासाद्यम् अधिज्य-धन्वनः" @m "was unobtainable for him whose bow was strung" अभूदनासाद्यमधिज्यधन्वनः)
+॥
+)
+)
+
+(vg @id "3.7"
+(v
+(w @m "Gradually" क्रमेण)
+(w @m "having overcome" निस्तीर्य)
+(w @m "and" च)
+(w @pc "दोहद-व्यथाम्" @m "the pain of cravings" दोहदव्यथां)
+(w @pc "प्रचीयमान-अवयवा" @m "she whose limbs were filling out" प्रचीयमानावयवा)
+(w @m "shone" रराज)
+(w @m "she" सा)
+|
+)
+(v
+(w @pc "पुराण-पत्र-अपगमात् अनन्तरम्" @m "after the falling of old leaves" पुराणपत्रापगमादनन्तरं)
+(w @pc "लता इव" @m "like a creeper" लतेव)
+(w @pc "संनद्ध-मनोज्ञ-पल्लवा" @m "adorned with beautiful new shoots" संनद्धमनोज्ञपल्लवा)
 ॥
 )
 )
