@@ -21,3 +21,8 @@ tena samudre svahRdaye bahUni duHkhAni soDhAni api.
 **OD1.5**  
 sva-sahacara-prANa-pratyAgamana-rakSaNodyataH.  
 svakIyAn prANAn sva-sahacarANAm pratyAgamanam ca rakSitum saGgharSaH kRtaH tena.
+
+
+**OD1.6**
+atIva-rakSitukAmaH api saH arakSita-sahacaraH.  
+bahu icchA satyapi tena sahacarAH na rakSitAH.
