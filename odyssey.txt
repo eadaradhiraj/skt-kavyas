@@ -26,3 +26,27 @@ svakIyAn prANAn sva-sahacarANAm pratyAgamanam ca rakSitum saGgharSaH kRtaH tena.
 **OD1.6**
 atIva-rakSitukAmaH api saH arakSita-sahacaraH.  
 bahu icchA satyapi tena sahacarAH na rakSitAH.
+
+
+OD1.7
+te hi svAviveka-naSTAH.
+yataH svakIyena avivekena eva te naSTAH.
+
+OD1.8
+mUDhAH te bhakSita-uccaya-sUrya-gavaH.
+mandabuddhibhiH taiH uccaya-sUryasya gAvaH bhakSitAH.
+
+OD1.9
+kintu sUryadevaH sahacarebhyaH apahRta-pratyAgamana-dinaH.
+kintu sUryadevena sahacarebhyaH pratyAgamana-dinam apahRta
+
+OD1.10
+
+Compound Style:
+he dyauSpitRputri athine, etadvRttAnte kutaH api asmabhyam api kathaya.
+
+Simple Style:
+he devi zeus-putri, etasmin vRttAnte kasmAccit api bhAgAt asmabhyam api zaMsa.
+
+
+
