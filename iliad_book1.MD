@@ -528,7 +528,7 @@ IL.1.283 लोकाघाय त्यजेः क्रोधं यो ह�
 IL.1.284 यवनेभ्यः सदा रक्षा भवति दारुणाद्रणात् । (नेस्तोरः - अखिलेयः यवनानाम् कृते घोरात् युद्धात् रक्षकः अस्ति ।)
 
 
-IL.1.285   [564[565ton d' apameibomenos [566[567prosephê565] [568kreiôn567] Agamemnôn:564]566]568]
+IL.1.285 अतिमन्ता तदा राजा तं वाक्यं प्रत्युवाच ह । (ततः राज्ञा अगमेम्ननेन नेस्तोराय प्रतिवचनम् उक्तम् ।)
 IL.1.286   [569[570[571[572nai dê tauta ge572] panta571] geron [573[574kata moiran eeipes:574]
 IL.1.287   all'570]573] hod'569] [575anêr ethelei575] peri pantôn emmenai allôn,
 IL.1.288   pantôn men krateein [576ethelei, pantessi576] d' anassein,
