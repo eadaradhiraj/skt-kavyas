@@ -1079,9 +1079,7 @@ IL.1.543   prophrôn tetlêkas [1207eipein [1208epos1207] [1209hotti1208] noês�
 
 IL.1.544   [1210[1211tên d' êmeibet' epeita1211] [1212patêr1210] [1213andrôn te theôn te:1212]1213]
 IL.1.545   Hêrê mê [1214dê pantas emous1214] epielpeo muthous
-IL.1.546   eidêsein: chalepoi toi esont' alochôi per eousêi:
-IL.1.547   all' hon men k' epieikes akouemen ou tis epeita
-IL.1.548   oute [1215theôn proteros1215] ton g' eisetai out' anthrôpôn:
+IL.1.546 ज्ञातुं मम मतानि स्युः पत्न्या अपि गुरूणि ते (द्यौष्पिता - हेरे त्वम् मम विचारान् न ज्ञास्यसि । मम पत्नी सती अपि तुभ्यम् मम विचाराः कठिनाः भविष्यन्ति ।)IL.1.547 किन्तु श्रोतव्यमेवात्र नान्यः कश्चित्ततः परम् (द्यौष्पिता - किन्तु यः विचारः त्वया श्रोतुम् योग्यः अस्ति तम् विचारम् ततः परम् न कश्चित् ज्ञास्यति ।)IL.1.548   oute [1215theôn proteros1215] ton g' eisetai out' anthrôpôn:
 IL.1.549   [1216[1217[1218hon de k' egôn1218] [1219apaneuthe1217] [1220theôn1219] [1221etheloimi1220] noêsai1216]1221]
 IL.1.550   mê ti su tauta hekasta dieireo mêde metalla.
 
