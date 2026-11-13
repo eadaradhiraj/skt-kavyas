@@ -1,20 +1,9 @@
- OD.1.1   andra moi ennepe, mousa, polutropon, hos mala polla
-OD.1.1   Tell me, Muse, about the wily man who wandered
-
-OD.1.2   planchthê, epei Troiês hieron ptoliethron eperse:
-OD.1.2   long and far after he sacked the sacred citadel of Troy.
-
-OD.1.3   pollôn d' anthrôpôn iden astea kai noon egnô,
-OD.1.3   He saw the cities and knew the minds of many men,
-
-OD.1.4   polla d' ho g' en pontôi pathen algea hon kata thumon,
-OD.1.4   but suffered at sea many sorrows in his heart,
-
-OD.1.5   arnumenos hên te psuchên kai noston hetairôn.
-OD.1.5   struggling for his life and comrades' return home.
-
-OD.1.6   all' oud' hôs hetarous errusato, hiemenos per:
-OD.1.6   But he didn't save his comrades, much though he wanted to,
+OD.1.1 कथयस्व मनीषे मोरुभ्रान्तं चतुरं नरम् (हे मनीषे तम् चतुरम् नरम् बहुत्र परिभ्रान्तम् अधिकृत्य मह्यम् कथय ।)
+OD.1.2 पुण्यं वरणदुर्गं स भङ्क्त्वा सुदूरमभ्रमत् (ओदुसेयेन इलियस्य पवित्रम् नगरम् नाशितम् । पश्चात् ओदुसेयः सुदूरम् विभ्रान्तः ।)
+OD.1.3 बहूनां स नृणां दृष्ट्वा पुराण्यवेत्स तद्धियः (ओदुसेयेन बहूनाम् जनानाम् नगराणि दृष्टानि । ओदुसेयेन तेषाम् जनानाम् चित्तानि ज्ञातानि ।)
+OD.1.4 स्वहृदये समुद्रे स दुःखान्यन्वभवद्बहु (ओदुसेयेन समुद्रे स्व-हृदये बहूनि दुःखानि अनुभूतानि ।)
+OD.1.5 स्वप्राणरक्षणं मित्रगृहागमनमीहते (ओदुसेयेन स्वस्य प्राणस्य रक्षणाय सहचराणाम् गृहप्रत्यागमनाय च प्रयत्नः कृतः ।)
+OD.1.6 तथापि स भृशं वाञ्छन्नारक्षत्स्वसुहृज्जनम् (तथा अपि ओदुसेयेन सहचराः न रक्षिताः । ओदुसेयेन सहचराणाम् रक्षणम् अत्यन्तम् इष्टम् ।)
 
 OD.1.7   autôn gar spheterêisin atasthaliêisin olonto,
 OD.1.7   for by their own recklessness they perished,
