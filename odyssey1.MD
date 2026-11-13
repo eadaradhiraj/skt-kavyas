@@ -21,29 +21,14 @@ OD.1.10 मनीषे वद नः किञ्चित्तेषामप
 
 OD.1.11 तदान्ये सकलाखेया घोरान्नाशाद्विमोचिताः (तदा घोरात् विनाशात् विमुक्ताः सर्वे अन्ये अखेयाः अवशिष्टाः ।)
 OD.1.12 मुक्ता युद्धसमुद्राभ्यां ते स्वभवनमावसन् (सर्वे अखेयाः युद्धात् समुद्रात् च मुक्ताः स्वगृहेषु स्थिताः ।)
-OD.1.13   ton d' oion nostou kechrêmenon êde gunaikos
-OD.1.13   Him only, yearning for his wife and return home,
-
-OD.1.14   numphê potni' eruke Kalupsô dia theaôn
-OD.1.14   the nymph, lady Calypso, a goddess divine,
-
-OD.1.15   en spessi glaphuroisi, lilaiomenê posin einai.
-OD.1.15   detained in hollow caves, eager that he be her husband.
-
-OD.1.16   all' hote dê etos êlthe periplomenôn eniautôn,
-OD.1.16   But as the years went round, there came a year at last
-
-OD.1.17   tôi hoi epeklôsanto theoi oikonde neesthai
-OD.1.17   when the gods spun his destiny to return home
-
-OD.1.18   eis Ithakên, oud' entha pephugmenos êen aethlôn
-OD.1.18   to Ithaca, but he wasn't safe from trials there,
-
-OD.1.19   kai meta hoisi philoisi. theoi d' eleairon hapantes
-OD.1.19   even among his loved ones. All the gods felt pity for him
-
-OD.1.20   nosphi Poseidaônos: ho d' asperches meneainen
-OD.1.20   except Poseidon. He was incessantly incensed
+OD.1.13 केवलं रोषणो भार्यां गृहागममचिन्तयत् (केवलम् ओदुसेयेन स्वपत्न्याः गृहगमनस्य च आकाङ्क्षा कृता ।)
+OD.1.14 अप्सरा पूजिता छन्ना देववरा न्यवारयत् (दिव्यया अप्सरसा पूज्यया कलुप्सोदेव्या ओदुसेयः निरुद्धः ।)
+OD.1.15 गह्वरेषु गभीरेषु भर्तारं तमकामयत् (गभीरासु गुहासु निरुद्धः ओदुसेयः स्वपतिः भवेत् इति कलुप्सोदेव्या अभिलषितम् ।
+OD.1.16 किन्त्वब्दपरिवर्तेषु तदा वर्षः समागमत् (किन्तु बहुषु वर्षेषु परिवृत्तेषु अन्ते एकः वर्षः आगतः ।)
+OD.1.17 यस्मिन् देवाः स्वधामैतुं तस्मै भाग्यं व्यतन्वत (तस्मिन् वर्षे देवैः ओदुसेयस्य गृहगमनस्य भाग्यम् निर्मितम् ।)
+OD.1.18 इथाकामागतस्तत्र स न क्लेशादमुच्यत (इथाकाम् गतः अपि ओदुसेयः तत्र कष्टेभ्यः न विमुक्तः ।)
+OD.1.19 स्वबन्धुष्वपि तं सर्वे देवा अनुचकम्पिरे (स्वबन्धुषु अपि ओदुसेयः कष्टेभ्यः न मुक्तः । सर्वैः देवैः ओदुसेये दया कृता ।)
+OD.1.20 विनाप्पतिमविश्रामं स भृशं क्रोधमादधे (पोसेयिदोनम् विना सर्वैः देवैः दया कृता । पोसेयिदोनेन निरन्तरम् क्रोधः कृतः ।)
 
 OD.1.21   antitheôi Odusêi paros hên gaian hikesthai.
 OD.1.21   at godlike Odysseus until he reached his own land.
