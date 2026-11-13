@@ -1,17 +1,8 @@
-IL.2.1   [1alloi men rha [2theoi te kai aneres2] hippokorustai
-IL.2.1   Now the rest of the gods, and men who were lords of chariots,
-
-IL.2.2   [3heudon pannuchioi,1]3] Dia d' ouk eche [4nêdumos hupnos,4]
-IL.2.2   slept night long, but the ease of sleep came not upon Zeus
-
-IL.2.3   [5all' ho ge [6mermêrize5] kata phrena6] [7hôs Achilêa
-IL.2.3   who was pondering in his heart how he might bring honour
-
-IL.2.4   timêsêi, olesêi de poleas [8epi [9nêusin Achaiôn.7]8]9]
-IL.2.4   to Achilleus, and destroy many beside the ships of the Achaians.
-
-IL.2.5   [10hêde [11de hoi kata thumon11] [12[13aristê phaineto13] boulê,10]12]
-IL.2.5   Now to his mind this thing appeared to be the best counsel,
+IL.2.1 अन्ये देवाश्च मर्त्याश्च रथिनस्ते समस्वपन् (अन्ये देवाः रथिनः नराः च सुप्ताः ।)
+IL.2.2 सुषुपुस्ते निशां सर्वां न तं निद्रा सुरेशमैत् (देवाः नराः च सर्वाम् रात्रिम् सुप्ताः । परन्तु मधुरया निद्रया द्यौष्पिता न धृतः ।)
+IL.2.3 देवेशो हृदि दध्यौ तल्लोकाघं मानयेद्यथा (परन्तु द्यौष्पित्रा मनसि अखिलेयस्य सम्माननस्य उपायः चिन्तितः ।)
+IL.2.4 लोकाघं मानयेद्धन्यादखेयनौषु भूरिशः (द्यौष्पिता अखिलेयम् सम्मानयेत् । द्यौष्पिता यवनानाम् नौकानाम् समीपे बहून् नरान् नाशयेत् ।)
+IL.2.5 तस्य मनस्युपायोऽयं श्रेष्ठस्तदा व्यदृश्यत (द्यौष्पितुः मनसि अयम् उपायः श्रेष्ठः प्रतिभातः ।)
 
 IL.2.6   pempsai [14ep' [15Atreïdêi Agamemnoni14]15] [16oulon oneiron:16]
 IL.2.6   to send evil Dream to Atreus' son Agamemnon.
