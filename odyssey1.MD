@@ -40,14 +40,12 @@ OD.1.20 विनाप्पतिमविश्रामं स भृशं 
 
 OD.1.21 यावन्न स्वभुवं प्राप दिद्वेष दिव्यरोषणम् (यावत् ओदुसेयः स्वदेशम् न गतः तावत् पोसेयिदोनेन देवसदृशे ओदुसेये क्रोधः कृतः ।)
 
-OD.1.22   all' ho men Aithiopas metekiathe têloth' eontas,
-OD.1.22   But Poseidon had gone to visit the far-off Ethiopians,
 
-OD.1.23   Aithiopas toi dichtha dedaiatai, eschatoi andrôn,
-OD.1.23   the Ethiopians, most remote of men, who are divided in two,
+OD.1.22 किन्त्विध्राक्षान् सुदूरस्थान् द्रष्टुमप्पतिरभ्ययात् (किन्तु पोसेयिदोनः दूरे वसतः ऐथियोपान् द्रष्टुम् गतः ।)
 
-OD.1.24   hoi men dusomenou Huperionos hoi d' aniontos,
-OD.1.24   some at Hyperion's setting, others at his rising,
+OD.1.23 इध्राक्षा ये द्विधा भिन्ना नॄणामन्त्यनिवासिनः (मनुष्याणाम् अत्यन्तम् दूरे स्थिताः ते ऐथियोपाः द्विधा विभक्ताः ।)
+
+OD.1.24 उपरिगे प्रयातेऽस्तं केचिदन्ये समुद्गते (केचित् ऐथियोपाः उपरिगे अस्तम् गते स्थिताः अन्ये च उपरिगे उदयम् गते स्थिताः ।)
 
 OD.1.25   antioôn taurôn te kai arneiôn hekatombês.
 OD.1.25   to partake of a hecatomb of bulls and rams.
