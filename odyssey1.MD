@@ -47,8 +47,7 @@ OD.1.23 इध्राक्षा ये द्विधा भिन्ना
 
 OD.1.24 उपरिगे प्रयातेऽस्तं केचिदन्ये समुद्गते (केचित् ऐथियोपाः उपरिगे अस्तम् गते स्थिताः अन्ये च उपरिगे उदयम् गते स्थिताः ।)
 
-OD.1.25   antioôn taurôn te kai arneiôn hekatombês.
-OD.1.25   to partake of a hecatomb of bulls and rams.
+OD.1.25 वृषभाणां च मेषाणां भोक्तुं शतबलिं गतः (पोसेयिदोनः वृषभाणाम् मेषाणाम् च शतबलिम् उपभोक्तुम् गतः ।)
 
 OD.1.26   enth' ho ge terpeto daiti parêmenos: hoi de dê alloi
 OD.1.26   He sat there enjoying himself at the feast. The others by now
