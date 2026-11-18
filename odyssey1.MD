@@ -59,38 +59,27 @@ OD.1.29 देवेशो हृदि सस्मार साध्वजब
 OD.1.30 दूरकीर्तिर्गिरिस्थो यमतिमन्तृसुतोऽवधीत् (दूरविश्रुतेन अगमेम्ननपुत्रेण ओरेस्तेन ऐगिस्थः हतः ।)
 
 OD.1.31 तं संस्मृत्य सुराधीशो दिवौकसो वचोऽब्रवीत् (ऐगिस्थम् स्मृत्वा द्यौष्पित्रा अमरेभ्यः इमानि वचनानि उक्तानि ।)
+checks complet so far
 
 
+OD.1.32 अहो कथमिमे मर्त्या निन्दन्त्यद्य दिवौकसः (द्यौष्पिता - अहो कथम् इदानीम् मर्त्याः देवान् निन्दन्ति ।)
+OD.1.33 अस्मत्तो दुःखमाहुस्ते स्वयमेव चरन्त्यपि (द्यौष्पिता - मर्त्याः हि वदन्ति यत् अस्मत् दुःखानि भवन्ति । परन्तु मर्त्याः स्वयम् अपि प्रवर्तन्ते ।)
 
-OD.1.32   ô popoi, hoion dê nu theous brotoi aitioôntai:
-OD.1.32   "Humph! How mortals now blame gods,
+OD.1.34 स्वकीयैरविवेकैस्ते भाग्याधिकं भजन्त्यघम् (द्यौष्पिता - मर्त्याः स्वकीयैः अविवेकैः भाग्यात् अधिकम् दुःखानि प्राप्नुवन्ति ।)
 
-OD.1.33   ex hêmeôn gar phasi kak' emmenai, hoi de kai autoi
-OD.1.33   for they say that evils are from us. Yet they themselves
+OD.1.35 अजबलो यथाप्यद्यात्रासजस्य समत्यगात् (द्यौष्पिता - यथा इदानीम् अपि ऐगिस्थेन भाग्यात् अधिकम् आत्रेयजस्य अहितम् कृतम् ।)
 
-OD.1.34   sphêisin atasthaliêisin huper moron alge' echousin,
-OD.1.34   have woes beyond their lot by their own recklessness,
+OD.1.36 अत्रासजवधूमूहे गृहं प्राप्तं जघान तम् (द्यौष्पिता - ऐगिस्थेन आत्रेयजस्य विवाहिता पत्नी ऊढा । यदा आत्रेयजः गृहम् आगतः तदा ऐगिस्थेन आत्रेयजः हतः ।)
 
-OD.1.35   hôs kai nun Aigisthos huper moron Atreïdao
-OD.1.35   as even now, beyond his lot, Aegisthus
+OD.1.37 घोरं नाशं विजानन्नप्यस्माभिः प्राक् प्रबोधितः (द्यौष्पिता - ऐगिस्थेन घोरः विनाशः ज्ञातः । अस्माभिः पूर्वम् ऐगिस्थाय उक्तम् ।)
 
-OD.1.36   gêm' alochon mnêstên, ton d' ektane nostêsanta,
-OD.1.36   married Atreides' wedded wife and killed him when he came home,
+OD.1.38 सीमादेवं सुदृष्टिं तमर्जुनघ्नं ससर्जिम (द्यौष्पिता - अस्माभिः तीक्ष्णदृष्टिः हेर्मियः अर्गेयिफोन्तः प्रेषितः ।)
 
-OD.1.37   eidôs aipun olethron, epei pro hoi eipomen hêmeis,
-OD.1.37   sure of sheer destruction, after we told him beforehand,
+OD.1.39 न तं हन्यान्न वा भार्यां वरयेत कदाचन (द्यौष्पिता - ऐगिस्थः अगमेम्ननम् न हन्यात् । ऐगिस्थः अगमेम्ननस्य पत्नीम् न वरयेत् ।)
 
-OD.1.38   Hermeian pempsantes, euskopon argeïphontên,
-OD.1.38   sending Hermes, sharp-sighted Argeiphontes,
+OD.1.40 अत्रासजात्प्रतीकारो गिरिस्थात्सम्भविष्यति (द्यौष्पिता - आत्रेयजस्य पुत्रात् ओरेस्तात् प्रतिशोधः भविष्यति ।)
 
-OD.1.39   mêt' auton kteinein mête mnaasthai akoitin:
-OD.1.39   to neither woo his wife nor kill him,
-
-OD.1.40   ek gar Orestao tisis essetai Atreïdao,
-OD.1.40   for there'd be revenge, from Atreides' son Orestes,
-
-OD.1.41   hoppot' an hêbêsêi te kai hês himeiretai aiês.
-OD.1.41   when he came of age and longed for his own land.
+OD.1.41 यदा यौवनमासाद्य स्वदेशमभिकाङ्क्षति (द्यौष्पिता - यदा ओरेस्तः युवा भविष्यति तदा ओरेस्तः स्वकीयम् देशम् इष्यति ।)
 
 OD.1.42   hôs ephath' Hermeias, all' ou phrenas Aigisthoio
 OD.1.42   So Hermes said, but he didn't win over the mind of Aegisthus,
