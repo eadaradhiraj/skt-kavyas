@@ -49,14 +49,11 @@ OD.1.24 उपरिगे प्रयातेऽस्तं केचिद�
 
 OD.1.25 वृषभाणां च मेषाणां भोक्तुं शतबलिं गतः (पोसेयिदोनः वृषभाणाम् मेषाणाम् च शतबलिम् उपभोक्तुम् गतः ।)
 
-OD.1.26   enth' ho ge terpeto daiti parêmenos: hoi de dê alloi
-OD.1.26   He sat there enjoying himself at the feast. The others by now
+OD.1.26 तत्र भोज्ये निषण्णोऽसौ ततर्पाप्पतिरात्मना (तत्र भोजने उपविष्टः पोसेयिदोनः तृप्तः जातः ।)
 
-OD.1.27   Zênos eni megaroisin Olumpiou hathrooi êsan.
-OD.1.27   were together in the halls of Olympian Zeus.
+OD.1.27 अन्ये तु द्यौष्पितुः संस्थाः देवलोकस्थवेश्मनि (इदानीम् अन्ये देवाः तु ओलुम्पियस्थस्य द्यौष्पितुः भवनेषु एकत्र समवेताः ।)
 
-OD.1.28   toisi de muthôn êrche patêr andrôn te theôn te:
-OD.1.28   The father of men and gods began speaking to them,
+OD.1.28 सुरेशो वक्तुमारेभे नृसुराणां पिता प्रभुः (मनुष्याणाम् देवानाम् च पित्रा द्यौष्पित्रा देवेषु भाषणम् आरब्धम् ।)
 
 OD.1.29   mnêsato gar kata thumon amumonos Aigisthoio,
 OD.1.29   for in his heart he recalled noble Aegisthus,
