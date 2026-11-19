@@ -84,63 +84,43 @@ OD.1.42 सीमादेवो जगादेति न निन्येऽ
 
 OD.1.43 हितार्थिनानुशिष्टः स त्वद्य सर्वमदात्समम् (द्यौष्पिता - हेर्मियेण ऐगिस्थस्य हितम् चिन्तितम् । इदानीम् ऐगिस्थेन सर्वस्य दण्डः एकदा प्राप्तः ।)
 
+OD.1.44 पिङ्गाक्ष्यथाथिना देवी सुरेशं प्रत्यभाषत (ततः पिङ्गाक्ष्या अथिनादेव्या द्यौष्पिता प्रत्युक्तः ।)
 
+OD.1.45 पितः क्रोनसुतास्माकं प्रशास्तॄणां शृणु प्रभो (अथिना - हे अस्माकम् पितः क्रोनपुत्र प्रशास्तॄणाम् श्रेष्ठ शृणु ।)
 
-OD.1.44 देव्यथिनाथ पिङ्गाक्षी सुरेशं प्रत्यभाषत (ततः पिङ्गाक्ष्या अथिनादेव्या द्यौष्पितरम् प्रत्युक्तम् ।)
+OD.1.46 नूनं ह्यजबलः शेते सुयुक्ते स विनाशने (अथिना - नूनम् ऐगिस्थः समुचिते विनाशे निपतितः ।)
 
-OD.1.45   ô pater hêmetere Kronidê, hupate kreiontôn,
-OD.1.45   "Our father Cronides, your highness most supreme,
+OD.1.47 तथान्योऽपि प्रणश्येद्यस्तादृक्कर्म समाचरेत् (अथिना - यः अन्यः अपि एतादृशम् कर्म कुर्यात् सः तथा विनश्येत् ।)
 
-OD.1.46   kai liên keinos ge eoikoti keitai olethrôi:
-OD.1.46   just as that one lies in fitting destruction,
+OD.1.48 परं मे रोषणे प्राज्ञे दुर्दैवे दीर्यते मनः (अथिना - परम् प्राज्ञम् दुर्दैवम् ओदुसेयम् प्रति मम हृदयम् दीर्यते ।)
 
-OD.1.47   hôs apoloito kai allos, hotis toiauta ge rhezoi:
-OD.1.47   may also any other one who does such things so perish!
+OD.1.49 स बन्धुभ्यो विदूरस्थश्चिरं दुःखानि विन्दति (अथिना - सः ओदुसेयः चिरम् बन्धुभ्यः दूरे वसन् दुःखानि अनुभवति ।)
 
-OD.1.48   alla moi amph' Odusêi daïphroni daietai êtor,
-OD.1.48   But my heart is troubled about skilled Odysseus, the ill-fated one,
+OD.1.50 द्वीपे सिन्धुपरीतेऽस्ति यत्र नाभिर्महोदधेः (अथिना - सः ओदुसेयः समुद्रेण परिवृते द्वीपे वसति यत्र समुद्रस्य नाभिः अस्ति ।)
 
-OD.1.49   dusmorôi, hos dê dêtha philôn apo pêmata paschei
-OD.1.49   who, away from his loved ones a long time already, suffers misery
+OD.1.51 स द्वीपो वृक्षसम्पन्नस्तं च देव्यधितिष्ठति (अथिना - सः द्वीपः वृक्षैः सम्पन्नः अस्ति । तत्र एका देवी गृहे वसति ।)
 
-OD.1.50   nêsôi en amphirutêi, hothi t' omphalos esti thalassês.
-OD.1.50   on a sea-girt island, where the sea's navel is.
+OD.1.52 सन्तोलकस्य घोरस्य पुत्री योऽगाधतत्त्ववित् (अथिना - सा देवी घोरस्य अत्लान्तस्य पुत्री अस्ति यः समुद्रस्य अगाधम् जानाति ।)
 
-OD.1.51   nêsos dendrêessa, thea d' en dômata naiei,
-OD.1.51   The island is forested, and on it a goddess makes her home,
+OD.1.53 स्वयं सर्वसमुद्रस्य तुङ्गस्तम्भान् बिभर्ति सः (अथिना - सः अत्लान्तः सर्वस्य समुद्रस्य अगाधम् जानाति । सः स्वयम् उच्चान् स्तम्भान् धारयति ।)
 
-OD.1.52   Atlantos thugatêr oloophronos, hos te thalassês
-OD.1.52   the daughter of malign Atlas, he who knows the depths
+OD.1.54 दीर्घा ये धारयन्त्युच्चैः पृथिवीं गगनं पृथक् (अथिना - ते दीर्घाः स्तम्भाः पृथिवीम् गगनम् च पृथक् धारयन्ति ।)
 
-OD.1.53   pasês benthea oiden, echei de te kionas autos
-OD.1.53   of every sea and by himself holds the tall pillars
+OD.1.55 तस्य पुत्री प्रशोचन्तं दुर्दैवं निरुणद्धि तम् (अथिना - अत्लान्तस्य पुत्री कलुप्सोदेवी दुर्दैवम् विलपन्तम् ओदुसेयम् निरुणद्धि ।)
 
-OD.1.54   makras, hai gaian te kai ouranon amphis echousi.
-OD.1.54   that hold apart heaven and earth.
+OD.1.56 सदा तं मृदुभिर्वाक्यैश्चाटुयुक्तैः प्रभाषते (अथिना - कलुप्सोदेवी सन्ततम् मृदुलैः चाटुयुक्तैः वचनैः ओदुसेयम् प्रभाषते ।)
 
-OD.1.55   tou thugatêr dustênon oduromenon katerukei,
-OD.1.55   His daughter detains the unfortunate lamenter,
+OD.1.57 सा तं मोहयतीथाकां स यथा विस्मरेदसौ (अथिना - कलुप्सोदेवी ओदुसेयम् तथा मोहयति यथा ओदुसेयः इथाकाम् विस्मरेत् ।)
 
-OD.1.56   aiei de malakoisi kai haimulioisi logoisi
-OD.1.56   and ever with soft and wheedling words
+OD.1.58 अङ्गीकरोति सन्मृत्युं धूमं दृष्ट्वापि रोषणः (अथिना - स्वदेशात् ऊर्ध्वम् उत्पतन्तम् धूमम् अपि दृष्ट्वा ओदुसेयः मृत्युम् अङ्गीकरोति ।)
 
-OD.1.57   thelgei, hopôs Ithakês epilêsetai: autar Odusseus,
-OD.1.57   enchants him in such a way that he'll forget Ithaca.
+OD.1.59 सुरेश न द्रवत्यद्य प्रियं ते रोषणे मनः (अथिना - हे ओलिम्पवासिन् द्यौष्पितः अधुना अपि ओदुसेयस्य कृते तव प्रियम् हृदयम् न द्रवति ।)
 
-OD.1.58   hiemenos kai kapnon apothrôskonta noêsai
-OD.1.58   But Odysseus, eager for even the sight of smoke rising
+OD.1.60 रोषणः किं न सद्यज्ञैः सुरेश त्वामतोषयत् (अथिना - किम् ओदुसेयेन यज्ञैः त्वम् न प्रीणितः ।)
 
-OD.1.59   hês gaiês, thaneein himeiretai. oude nu soi per
-OD.1.59   from his land, longs to die. But there's now no care at all for him
+OD.1.61 त्वं पुरे वरणे स्फारे प्रीत आर्जुननौतटे (अथिना - विस्तीर्णे इलियदेशे अर्गदेशवासिनाम् नौकानाम् समीपे ओदुसेयेन पवित्रैः यज्ञैः त्वम् सन्तोषितः ।)
 
-OD.1.60   entrepetai philon êtor, Olumpie. ou nu t' Odusseus
-OD.1.60   in your dear heart, Olympian. Did not Odysseus
-
-OD.1.61   Argeiôn para nêusi charizeto hiera rhezôn
-OD.1.61   please you he when he offered sacrifice beside the Argive ships
-
-OD.1.62   Troiêi en eureiêi; ti nu hoi toson ôdusao, Zeu;
-OD.1.62   in wide Troy? Why now, Zeus, are you so incensed with him?"
+OD.1.62 देवेश त्वमतीवाद्य रोषणाय किमक्रुधः (अथिना - हे द्यौष्पितः त्वम् ओदुसेयम् प्रति किमर्थम् अतीव क्रुद्धः जातः ।)
 
 
 
