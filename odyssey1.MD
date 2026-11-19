@@ -86,8 +86,7 @@ OD.1.43 हितार्थिनानुशिष्टः स त्वद�
 
 
 
-OD.1.44   ton d' êmeibet' epeita thea, glaukôpis Athênê:
-OD.1.44   Then bright-eyed goddess Athena answered him:
+OD.1.44 देव्यथिनाथ पिङ्गाक्षी सुरेशं प्रत्यभाषत (ततः पिङ्गाक्ष्या अथिनादेव्या द्यौष्पितरम् प्रत्युक्तम् ।)
 
 OD.1.45   ô pater hêmetere Kronidê, hupate kreiontôn,
 OD.1.45   "Our father Cronides, your highness most supreme,
