@@ -123,9 +123,7 @@ OD.1.61 त्वं पुरे वरणे स्फारे प्री�
 OD.1.62 देवेश त्वमतीवाद्य रोषणाय किमक्रुधः (अथिना - हे द्यौष्पितः त्वम् ओदुसेयम् प्रति किमर्थम् अतीव क्रुद्धः जातः ।)
 
 
-
-OD.1.63   tên d' apameibomenos prosephê nephelêgereta Zeus:
-OD.1.63   Cloud-gatherer Zeus said to her in reply:
+OD.1.63 मेघवाहः सुरेशस्तां समुत्तरमभाषत (मेघवाहकेन द्यौष्पित्रा अथिना प्रत्युक्ता ।)
 
 OD.1.64   teknon emon, poion se epos phugen herkos odontôn.
 OD.1.64   "My child, what kind of talk has fled your wall of teeth?
