@@ -159,26 +159,19 @@ OD.1.79 इच्छाममरदेवानामप्पतिर्न �
 
 
 
-OD.1.80   ton d' êmeibet' epeita thea, glaukôpis Athênê:
-OD.1.80   Then bright-eyed goddess Athena answered him:
+OD.1.80 अथ द्यौष्पितरं पिङ्गाक्ष्यथिना प्रत्यभाषत (ततः पिङ्गाक्ष्या अथिनादेव्या द्यौष्पित्रे प्रतिवचनम् दत्तम् ।)
 
-OD.1.81   ô pater hêmetere Kronidê, hupate kreiontôn,
-OD.1.81   "Our father Cronides, your highness most supreme,
+OD.1.81 अस्मत्पितः महीयस्त्वमीशानां क्रोनज प्रभो (अथिना - हे अस्माकम् पितः क्रोनज त्वम् सर्वेषाम् ईशानाम् उत्तमः असि ।)
 
-OD.1.82   ei men dê nun touto philon makaressi theoisi,
-OD.1.82   if this is now pleasing to the blessed gods,
+OD.1.82 यदि सम्प्रति धन्येषु प्रियं देवेष्विदं भवेत् (अथिना - यदि इदानीम् एतत् धन्येभ्यः देवेभ्यः प्रियम् अस्ति तर्हि साधु ।)
 
-OD.1.83   nostêsai Odusêa poluphrona honde domonde,
-OD.1.83   that ingenious Odysseus would return to his home,
+OD.1.83 बहुधीः पुनरागच्छेत्स्वगृहं प्रति रोषणः (अथिना - बुद्धिमान् ओदुसेयः स्वकीयम् गृहम् प्रति आगच्छेत् इति अस्माकम् इच्छा अस्ति ।)
 
-OD.1.84   Hermeian men epeita diaktoron argeïphontên
-OD.1.84   then let's dispatch Hermes, the runner Argeiphontes,
+OD.1.84 अथ सीमेश्वरं दूतमर्जुनघ्नं दिशामहै (अथिना - ततः दूतम् अर्जुनघ्नम् हेर्मेयम् वयम् प्रहिणवाम ।)
 
-OD.1.85   nêson es Ôgugiên otrunomen, ophra tachista
-OD.1.85   to the island of Ogygia, to clearly speak
+OD.1.85 ओगुगियां प्रति क्षिप्रं तं द्वीपं चोदयामहे (अथिना - वयम् हेर्मेयम् ओगुगियाद्वीपम् प्रति शीघ्रम् प्रेरयाम यथा हेर्मेयः स्पष्टम् वदेत् ।)
 
-OD.1.86   numphêi euplokamôi eipêi nêmertea boulên,
-OD.1.86   most quickly to the fair-haired nymph our will,
+OD.1.86 अस्मन्मतं सुकेश्यै सोऽप्सरसे वदेद्ध्रुवम् (अथिना - हेर्मेयः सुकेश्यै अप्सरसे कलुप्सोदेव्यै अस्माकम् अवितथम् निश्चयम् कथयेत् ।)
 
 OD.1.87   noston Odussêos talasiphronos, hôs ke neêtai:
 OD.1.87   the return home of steadfast Odysseus, so that he may go.
