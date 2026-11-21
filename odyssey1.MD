@@ -125,53 +125,37 @@ OD.1.62 देवेश त्वमतीवाद्य रोषणाय क
 
 OD.1.63 मेघवाहः सुरेशस्तां समुत्तरमभाषत (मेघवाहकेन द्यौष्पित्रा अथिना प्रत्युक्ता ।)
 
-OD.1.64   teknon emon, poion se epos phugen herkos odontôn.
-OD.1.64   "My child, what kind of talk has fled your wall of teeth?
+OD.1.64 पुत्रि मे कीदृशं वाक्यमत्यगाद्दन्तबन्धनम् (द्यौष्पिता - हे मम पुत्रि अथिने कीदृशम् वचनम् तव दन्तबन्धनात् बहिः निर्गतम् ।)
 
-OD.1.65   pôs an epeit' Odusêos egô theioio lathoimên,
-OD.1.65   How could I ever forget godlike Odysseus,
+OD.1.65 विस्मरेयं कथं पश्चादहं तं दिव्यरोषणम् (द्यौष्पिता - ततः अहम् दिव्यम् ओदुसेयम् कथम् विस्मर्तुम् शक्नुयाम् ।)
 
-OD.1.66   hos peri men noon esti brotôn, peri d' hira theoisin
-OD.1.66   who is superior among mortals in mind and in giving sacrifice
+OD.1.66 योऽतिशेते नराञ्ज्ञाने यजते च सुरान्भृशम् (द्यौष्पिता - ओदुसेयः बुद्ध्या सर्वान् मर्त्यान् अतिशेते । ओदुसेयः देवेभ्यः प्रभूतम् हविः ददाति ।)
 
-OD.1.67   athanatoisin edôke, toi ouranon eurun echousin;
-OD.1.67   to the immortal gods who hold wide heaven?
+OD.1.67 अमरेभ्यो ददौ हव्यं ये बृहद्व्योम बिभ्रति (द्यौष्पिता - ओदुसेयेन अमरेभ्यः हविः दत्तम् । अमराः विस्तीर्णे आकाशे वसन्ति ।)
 
-OD.1.68   alla Poseidaôn gaiêochos askeles aien
-OD.1.68   But earth-embracing Poseidon is ever relentless
+OD.1.68 किन्त्वप्पतिः सदा क्रुद्धो निरन्तरं महीधरः (द्यौष्पिता - किन्तु धरणीधरः पोसेयिदोनः सर्वदा निरन्तरम् क्रुद्धः अस्ति ।)
 
-OD.1.69   Kuklôpos kecholôtai, hon ophthalmou alaôsen,
-OD.1.69   in his rage because of the Cyclops whose eye Odysseus blinded,
+OD.1.69 चक्राक्षस्य कृते क्रुद्धो रोषणेनात्तचक्षुषः (द्यौष्पिता - पोसेयिदोनः कुक्लोपस्य कृते क्रुद्धः अस्ति । ओदुसेयेन कुक्लोपस्य नेत्रम् नाशितम् ।)
 
-OD.1.70   antitheon Poluphêmon, hoou kratos esti megiston
-OD.1.70   godlike Polyphemus, whose strength is greatest
+OD.1.70 देवाभं पुरुशंसं तं यस्य वीर्यं महत्तमम् (द्यौष्पिता - दिव्यस्य पोलुफेमस्य बलम् महत्तमम् अस्ति ।)
 
-OD.1.71   pasin Kuklôpessi: Thoôsa de min teke numphê,
-OD.1.71   of all Cyclops. The nymph Thoosa bore him.
+OD.1.71 चक्राक्षेष्वखिलेष्वेवं तं धावनाप्सरा दधौ (द्यौष्पिता - सर्वेषु कुक्लोपेषु पोलुफेमस्य बलम् महत्तमम् अस्ति । अप्सरसा थोसया पोलुफेमः जनितः ।)
 
-OD.1.72   Phorkunos thugatêr halos atrugetoio medontos,
-OD.1.72   Daughter of Phorkys, ruler of the barren sea,
+OD.1.72 भर्गस्य दुहिता सिन्धोर्निष्फलस्य प्रशासितुः (द्यौष्पिता - थोसा निष्फलस्य समुद्रस्य शासकस्य फोर्कुसस्य पुत्री अस्ति ।)
 
-OD.1.73   en spessi glaphuroisi Poseidaôni migeisa.
-OD.1.73   she joined in hollow caves with Poseidon.
+OD.1.73 गह्वरेषु गभीरेषु साप्पतिमभ्यगच्छत (द्यौष्पिता - थोसा सुषिरासु गुहासु पोसेयिदोनम् अभिगता ।)
 
-OD.1.74   ek tou dê Odusêa Poseidaôn enosichthôn
-OD.1.74   Earth-shaker Poseidon does not kill Odysseus on his account,
+OD.1.74 तत्कारणात्क्षमाकम्पो रोषणं हन्ति नाप्पतिः (द्यौष्पिता - धरणीकम्पकः पोसेयिदोनः पोलुफेमस्य कृते ओदुसेयम् न हन्ति ।)
 
-OD.1.75   ou ti katakteinei, plazei d' apo patridos aiês.
-OD.1.75   but does drive him away from his father's land.
+OD.1.75 न कदाचन तं हन्ति पितृदेशादपास्यति (द्यौष्पिता - पोसेयिदोनः ओदुसेयम् कदा अपि न हन्ति । किन्तु पोसेयिदोनः ओदुसेयम् पितृभूमितः दूरम् भ्रामयति ।)
 
-OD.1.76   all' ageth', hêmeis hoide periphrazômetha pantes
-OD.1.76   But come, let all of us contrive his return for him,
+OD.1.76 किन्त्वेत सहिताः सर्वे तन्निवृत्तिं विदध्महै (द्यौष्पिता - किन्तु आगच्छत । वयम् सर्वे मिलित्वा ओदुसेयस्य प्रत्यागमनम् चिन्तयाम ।)
 
-OD.1.77   noston, hopôs elthêisi: Poseidaôn de methêsei
-OD.1.77   as he wishes. Poseidon will let go
+OD.1.77 यथा स पुनरागच्छेत्क्रोधं त्यक्ष्यति चाप्पतिः (द्यौष्पिता - यथा ओदुसेयः स्वदेशम् आगच्छेत् तथा वयम् चिन्तयाम । पोसेयिदोनः अपि स्वकीयम् क्रोधम् त्यजिष्यति ।)
 
-OD.1.78   hon cholon: ou men gar ti dunêsetai antia pantôn
-OD.1.78   of his anger, for he'll no way be able to contend
+OD.1.78 न कदाचिद्विरोद्धुं स सर्वान्प्रति हि शक्ष्यति (द्यौष्पिता - यतः पोसेयिदोनः सर्वान् प्रति विरुध्य स्थातुम् कदा अपि न शक्ष्यति ।)
 
-OD.1.79   athanatôn aekêti theôn eridainemen oios.
-OD.1.79   alone, opposed to all immortals, against the will of the gods."
+OD.1.79 इच्छाममरदेवानामप्पतिर्न विरोत्स्यति (द्यौष्पिता - पोसेयिदोनः अमराणाम् देवानाम् इच्छाम् न विरोत्स्यति ।)
 
 
 
