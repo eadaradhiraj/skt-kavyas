@@ -247,8 +247,7 @@ OD.1.122 उच्चार्य स सपक्षाश्च गिरस�
 
 OD.1.123 नमोऽतिथेऽस्तु तेऽस्माभिरर्चिष्यसे ततो वदेः (तेलेमखः - हे अतिथे तव स्वागतम् भवतु । अस्माकम् समीपे त्वम् सत्करिष्यसे । ततः परम् त्वम् वदिष्यसि ।)
 
-OD.1.124   deipnou passamenos muthêseai hotteo se chrê.
-OD.1.124   when you've eaten supper, you can tell us what you need."
+OD.1.124 सायं भोजनमास्वाद्य यत्कार्यं ते वदिष्यसि (तेलेमखः - हे अतिथे त्वम् सायम् भोजनम् भुक्त्वा यत् तव प्रयोजनम् अस्ति तत् अस्मभ्यम् वदिष्यसि ।)
 
 OD.1.125   hôs eipôn hêgeith', hê d' hespeto Pallas Athênê.
 OD.1.125   So saying, he led the way, and Pallas Athena followed.
