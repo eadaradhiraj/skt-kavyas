@@ -214,53 +214,37 @@ OD.1.106 अविन्दत्सा वरान्दृप्तान् 
 
 OD.1.107 द्वाराग्रे ते निजात्मानं शारिभिः समतर्पयन् (वरैः द्वारस्य पुरतः शारिभिः स्वमनः प्रीणितम् ।)
 
-OD.1.108   hêmenoi en rhinoisi boôn, hous ektanon autoi:
-OD.1.108   sitting on hides of oxen that they'd killed.
+OD.1.108 स्वहतानां गवां ते वै चर्मसु समुपाविशन् (वराः गवाम् चर्मसु उपविष्टाः । ते गावः वरैः स्वयम् हताः ।)
 
-OD.1.109   kêrukes d' autoisi kai otrêroi therapontes
-OD.1.109   They had heralds and deft henchmen,
+OD.1.109 दूताः परिचरा दक्षास्तेषां सेवामकुर्वत (दूतैः दक्षैः परिचारकैः च वराणाम् सेवा कृता ।)
 
-OD.1.110   hoi men ar' oinon emisgon eni krêtêrsi kai hudôr,
-OD.1.110   some who mixed wine and water in mixing bowls,
+OD.1.110 केचिन्मद्यं च तोयं च पात्रेषु सममिश्रयन् (कैश्चित् परिचारकैः पात्रेषु जलेन सह मद्यम् मिश्रितम् ।)
 
-OD.1.111   hoi d' aute spongoisi polutrêtoisi trapezas
-OD.1.111   while some, with sponges full of holes, cleaned
+OD.1.111 अब्धिफेनैर्बहुच्छिद्रैरन्ये पीठानशोधयन् (अन्यैः परिचारकैः बहुच्छिद्रैः अब्धिफेनैः भोजनपीठानि शोधितानि ।)
 
-OD.1.112   nizon kai protithento ide krea polla dateunto.
-OD.1.112   and set the tables and others cut up lots of meat.
+OD.1.112 अक्षालयन्न्यधुश्चाग्रे मांसं भूरि व्यभाजयन् (परिचारकैः भोजनपीठानि प्रक्षाल्य पुरतः स्थापितानि । अन्यैः परिचारकैः बहुलम् पिशितम् विभक्तम् ।)
 
 
 
-OD.1.113   tên de polu prôtos ide Têlemachos theoeidês,
-OD.1.113   Godlike Telemachus was first by far to see her,
+OD.1.113 तं ददर्श सुपूर्वं स चिरमघः सुरोपमः (देवसदृशेन चिरमघेन अतिथिरूपिणी अथिना सर्वप्रथमम् दृष्टा ।)
 
-OD.1.114   hêsto gar en mnêstêrsi philon tetiêmenos êtor,
-OD.1.114   for he sat among the suitors, dear heart grieving,
+OD.1.114 वरमध्ये निषण्णोऽभूत् प्रिये हृदि सुदुःखितः (चिरमघः वराणाम् मध्ये निषण्णः । चिरमघस्य प्रिये हृदये महान् खेदः जातः ।),
 
-OD.1.115   ossomenos pater' esthlon eni phresin, ei pothen elthôn
-OD.1.115   seeing in his mind his good father, in hope he'd come from somewhere,
+OD.1.115 मनसा पितरं साधुं पश्यन्नेयात्कुतश्चन (चिरमघेन स्वस्य मनसि उत्तमः पिता दृष्टः । कदाचित् पिता कुतश्चित् आगच्छेत् इति चिरमघेन आशा कृता ।)
 
-OD.1.116   mnêstêrôn tôn men skedasin kata dômata theiê,
-OD.1.116   make a scattering of the suitors throughout the house,
+OD.1.116 वराणां तु विदध्यात्स सर्वगृहे विसर्जनम् (चिरमघस्य पिता गृहे सर्वत्र वरान् विद्रावयेत् इति चिरमघेन आशा कृता ।)
 
-OD.1.117   timên d' autos echoi kai ktêmasin hoisin anassoi.
-OD.1.117   and himself have honor and rule over his possessions.
+OD.1.117 स्वद्रव्याणि प्रशिष्याच्च मानं स्वयं लभेत सः (ओदुसेयः स्वयम् मानम् लभेत इति चिरमघेन आशा कृता । ओदुसेयः स्वकीयानाम् धनानाम् ईशीत इति चिरमघेन चिन्तितम् ।)
 
-OD.1.118   ta phroneôn, mnêstêrsi methêmenos, eisid' Athênên.
-OD.1.118   Sitting among the suitors thinking this, he caught sight of Athena.
+OD.1.118 वरमध्येऽथ तद्ध्यायन्नथिनां स व्यलोकयत् (वराणाम् मध्ये उपविष्टेन चिरमघेन एतत् चिन्तितम् । तदा चिरमघेन अथिना दृष्टा ।)
 
-OD.1.119   bê d' ithus prothuroio, nemessêthê d' eni thumôi
-OD.1.119   He made straight for the front doorway, displeased at heart
+OD.1.119 चिरमघो हृदि क्रुद्धो बहिर्द्वारमृजुर्ययौ (चिरमघः हृदये क्रुद्धः जातः । चिरमघः बहिः द्वारम् प्रति ऋजुः गतः ।)
 
-OD.1.120   xeinon dêtha thurêisin ephestamen: enguthi de stas
-OD.1.120   that a stranger stand a long time at the door. He stood close,
+OD.1.120 अभ्यागतं चिरं द्वारि समीपे चास्य संस्थितः (अभ्यागतः बहुकालम् द्वारि तिष्ठेत् इति चिरमघः क्रुद्धः जातः । ततः चिरमघः तस्य अभ्यागतस्य समीपे स्थितः ।)
 
-OD.1.121   cheir' hele dexiterên kai edexato chalkeon enchos,
-OD.1.121   took her right hand, and accepted her bronze spear.
+OD.1.121 जग्राह दक्षिणं हस्तं शूलं च कांस्यमाददे (चिरमघेन अथिनायाः दक्षिणः हस्तः गृहीतः । चिरमघेन तस्याः कांस्यम् शूलम् च स्वीकृतम् ।)
 
-OD.1.122   kai min phônêsas epea pteroenta prosêuda:
-OD.1.122   And, voicing winged words, he said to her:
-
+OD.1.122 उच्चार्य स सपक्षाश्च गिरस्तामभ्यभाषत (चिरमघेन उच्चैः शब्दः कृतः । चिरमघेन अथिनाम् प्रति सपक्षाणि वचनानि उक्तानि ।)
 
 
 OD.1.123   chaire, xeine, par' ammi philêseai: autar epeita
