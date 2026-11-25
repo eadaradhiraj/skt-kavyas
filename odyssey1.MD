@@ -259,14 +259,11 @@ OD.1.129 तस्थुः पुरूणि शूलानि रोषण�
 
 OD.1.130 अथिनां स नयन्पीठे क्षौमास्तृते न्यषादयत् (तेलेमखेन अथिनादेवी आसनम् प्रति नीता । ततः तेलेमखेन अथिनादेव्याः अधः वस्त्रम् आस्तीर्य अथिनादेवी आसने उपवेशिता ।)
 
-OD.1.131   kalon daidaleon: hupo de thrênus posin êen.
-OD.1.131   and sat her down. There was a footstool underneath her feet.
+OD.1.131 आसनं सुकृतं चारु पदोः पीठमधोऽभवत् (आसनम् अतिसुन्दरम् सुशिल्पितम् निर्मितम् । अथिनादेव्याः पादयोः अधः एकम् पादपीठम् स्थितम् ।)
 
-OD.1.132   par d' autos klismon theto poikilon, ektothen allôn
-OD.1.132   He set himself a variegated couch beside her, apart from the others,
+OD.1.132 पार्श्वे स्वयमधात्पीठं विचित्रमन्यतः पृथक् (तेलेमखेन स्वयम् अथिनादेव्याः पार्श्वे अन्येभ्यः दूरम् एकम् चित्रितम् आसनम् स्थापितम् ।)
 
-OD.1.133   mnêstêrôn, mê xeinos aniêtheis orumagdôi
-OD.1.133   the suitors, lest the stranger, distressed by the din
+OD.1.133 वराणां तुमुलेनासौ मा व्यथिष्टातिथिर्भृशम् (वराणाम् कोलाहलेन अतिथिः व्यथितः मा भवतु ।)
 
 OD.1.134   deipnôi hadêseien, huperphialoisi metelthôn,
 OD.1.134   and coming among the haughty, not be satisfied with supper
