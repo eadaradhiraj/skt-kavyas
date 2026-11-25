@@ -247,17 +247,13 @@ OD.1.123 नमोऽतिथेऽस्तु तेऽस्माभिर�
 
 OD.1.124 सायं भोजनमास्वाद्य यत्कार्यं ते वदिष्यसि (तेलेमखः - हे अतिथे त्वम् सायम् भोजनम् भुक्त्वा यत् तव प्रयोजनम् अस्ति तत् अस्मभ्यम् वदिष्यसि ।)
 
-OD.1.125   hôs eipôn hêgeith', hê d' hespeto Pallas Athênê.
-OD.1.125   So saying, he led the way, and Pallas Athena followed.
+OD.1.125 इत्युक्त्वा स ययावग्रे शूलभृदथिनान्वगात् (एवम् उक्त्वा तेलेमखः अग्रे गतः । अथिनादेवी तेलेमखम् अनुगता ।)
 
-OD.1.126   hoi d' hote dê rh' entosthen esan domou hupsêloio,
-OD.1.126   When they were inside the lofty dwelling
+OD.1.126 तुङ्गदमं प्रविष्टौ तावन्तस्तत्र बभूवतुः (ततः तेलेमखः अथिनादेवी उभौ तुङ्गस्य गृहस्य अन्तः उपस्थितौ ।)
 
-OD.1.127   enchos men rh' estêse pherôn pros kiona makrên
-OD.1.127   he stood the spear he carried against a tall pillar,
+OD.1.127 शूलं बिभ्रत्स तुङ्गं तं स्तम्भं प्रति न्यतिष्ठिपत् (तेलेमखेन शूलम् नीत्वा उच्चम् स्तम्भम् प्रति स्थापितम् ।)
 
-OD.1.128   dourodokês entosthen euxoou, entha per alla
-OD.1.128   inside a well-wrought spear rack, where many spears
+OD.1.128 सुमृष्टे दारुकोष्ठेऽन्तर्यत्रान्यान्यवतस्थिरे (तत् शूलम् सुमृष्टस्य शूलाधारस्य अन्तः स्थापितम् । तत्र एव अन्यानि शूलानि अपि स्थितानि ।)
 
 OD.1.129   enche' Odussêos talasiphronos histato polla,
 OD.1.129   of steadfast Odysseus stood as well.
