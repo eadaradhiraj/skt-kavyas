@@ -265,11 +265,9 @@ OD.1.132 पार्श्वे स्वयमधात्पीठं वि
 
 OD.1.133 वराणां तुमुलेनासौ मा व्यथिष्टातिथिर्भृशम् (वराणाम् कोलाहलेन अतिथिः व्यथितः मा भवतु ।)
 
-OD.1.134   deipnôi hadêseien, huperphialoisi metelthôn,
-OD.1.134   and coming among the haughty, not be satisfied with supper
+OD.1.134 वरकानुद्धतान् प्राप्य मा भोजने रुषत्तदा (अतिथिः गर्वितानाम् वरकाणाम् मध्ये आगतः । अतः अतिथिः भोजनम् न द्विष्यात् इति चिन्तितम् ।)
 
-OD.1.135   êd' hina min peri patros apoichomenoio eroito.
-OD.1.135   and so he could ask her about his absent father.
+OD.1.135 यथातिथिं पितुर्वार्तां सुतः पृच्छेत् प्रवासिनः (तथा प्रवासम् गतस्य पितुः विषये अतिथिम् प्रष्टुम् इच्छया एवम् कृतम् ।)
 
 OD.1.136   cherniba d' amphipolos prochoôi epecheue pherousa
 OD.1.136   A handmaid brought water for washing in a
