@@ -255,11 +255,9 @@ OD.1.127 शूलं बिभ्रत्स तुङ्गं तं स्�
 
 OD.1.128 सुमृष्टे दारुकोष्ठेऽन्तर्यत्रान्यान्यवतस्थिरे (तत् शूलम् सुमृष्टस्य शूलाधारस्य अन्तः स्थापितम् । तत्र एव अन्यानि शूलानि अपि स्थितानि ।)
 
-OD.1.129   enche' Odussêos talasiphronos histato polla,
-OD.1.129   of steadfast Odysseus stood as well.
+OD.1.129 तस्थुः पुरूणि शूलानि रोषणस्य धृतात्मनः (तत्र धीरस्य ओदुसेयस्य बहूनि शूलानि स्थितानि ।)
 
-OD.1.130   autên d' es thronon heisen agôn, hupo lita petassas,
-OD.1.130   He led her to a fine ornamented chair, spread a cloth beneath her,
+OD.1.130 अथिनां स नयन्पीठे क्षौमास्तृते न्यषादयत् (तेलेमखेन अथिनादेवी आसनम् प्रति नीता । ततः तेलेमखेन अथिनादेव्याः अधः वस्त्रम् आस्तीर्य अथिनादेवी आसने उपवेशिता ।)
 
 OD.1.131   kalon daidaleon: hupo de thrênus posin êen.
 OD.1.131   and sat her down. There was a footstool underneath her feet.
