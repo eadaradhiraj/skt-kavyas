@@ -291,40 +291,28 @@ OD.1.145 क्रमेण न्यविशन् सर्वे पीठ�
 
 OD.1.146 तेषां दूताः समेत्याथ हस्तयोरसिचन् पयः (ततः दूतैः वरकाणाम् हस्तयोः जलम् सिक्तम् ।)
 
-OD.1.147   siton de dmôiai parenêneon en kaneoisi,
-OD.1.147   slaves heaped bread in baskets beside them,
+OD.1.147 दास्यः पार्श्वे करण्डेषु भोज्यं तेषामराशयन् (दासीभिः वरकाणाम् पार्श्वे करण्डेषु अन्नम् सञ्चितम् ।)
 
-OD.1.148   kouroi de krêtêras epestepsanto potoio.
-OD.1.148   and boys filled mixing bowls to the brim with drink.
+OD.1.148 युवानो मधुना कुम्भानाकण्ठं समपूरयन् (युवभिः मद्यकलशाः मद्येन आकण्ठम् पूरिताः ।)
 
-OD.1.149   hoi d' ep' oneiath' hetoima prokeimena cheiras iallon.
-OD.1.149   They threw their hands on the good things laid ready before them.
+OD.1.149 भोज्येषु संस्थितेष्वग्रे ते सज्जेष्वक्षिपन् करान् (ततः वरकैः पुरतः स्थितानि सज्जानि भोज्यानि प्रति हस्ताः प्रसारिताः ।)
 
-OD.1.150   autar epei posios kai edêtuos ex eron hento
-OD.1.150   Then after the suitors had dispatched desire for food
+OD.1.150 यदा पानान्नयोः काङ्क्षां वरकाः समपाक्षिपन् (तदनन्तरम् वरकैः पानभोजनयोः इच्छा अपास्ता ।)
 
-OD.1.151   mnêstêres, toisin men eni phresin alla memêlei,
-OD.1.151   and drink, other things caught their minds' attention,
+OD.1.151 वरकाणां मनोऽन्यानि कार्याण्यथ समाविशन् (ततः वरकाणाम् मनःसु अन्ये विषयाः चिन्तिताः ।)
 
-OD.1.152   molpê t' orchêstus te: ta gar t' anathêmata daitos:
-OD.1.152   the performance and the dance, for they accompany a feast.
+OD.1.152 गीतनृत्यं समागच्छत्तद्धि भोजस्य भूषणम् (गीतनृत्यम् वरकाणाम् मनःसु आगतम् । एतत् भोजनस्य भूषणम् भवति ।)
 
-OD.1.153   kêrux d' en chersin kitharin perikallea thêke
-OD.1.153   A herald placed a gorgeous cithara into the hands
+OD.1.153 दूतश्चारुतरां वीणां हस्तयोर्न्यदधात्तदा (दूतेन गायकस्य हस्तयोः अतीव सुन्दरी वीणा स्थापिता ।)
 
-OD.1.154   Phêmiôi, hos rh' êeide para mnêstêrsin anankêi.
-OD.1.154   of Phemius, who sang, under duress, for the suitors.
+OD.1.154 भाणोऽवशस्तदा तत्र वरकाणां पुरो जगौ (वीणा फेमियस्य हस्तयोः स्थापिता । फेमियेन विवशेन वरकाणाम् पुरतः गीतम् ।)
 
-OD.1.155   êtoi ho phormizôn aneballeto kalon aeidein.
-OD.1.155   Playing the lyre, he began to sing beautifully,
+OD.1.155 वीणां संवादयन् भाणश्चारु गातुं प्रचक्रमे (ततः फेमियेन वीणा वादिता । फेमियेन मधुरम् गातुम् आरब्धम् ।)
 
 
+OD.1.156 अथिनामथ पिङ्गाक्षीं चिरमघो वचोऽब्रवीत् (ततः तेलेमखेन पिङ्गाक्षी अथिना उक्ता ।)
 
-OD.1.156   autar Têlemachos prosephê glaukôpin Athênên,
-OD.1.156   but Telemachus said to bright-eyed Athena,
-
-OD.1.157   anchi schôn kephalên, hina mê peuthoiath' hoi alloi:
-OD.1.157   holding his head close so others couldn't hear him:
+OD.1.157 शिरः समीपमाधत्त यथा न शृणुयुः परे (अन्ये न शृणुयुः इति तेलेमखेन अथिनायाः समीपम् शिरः धृतम् ।)
 
 OD.1.158   xeine phil', ei kai moi nemesêseai hotti ken eipô;
 OD.1.158   "Dear stranger, will you resent me for what I'm going to say?
