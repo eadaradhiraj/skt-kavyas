@@ -269,32 +269,23 @@ OD.1.134 वरकानुद्धतान् प्राप्य मा �
 
 OD.1.135 यथातिथिं पितुर्वार्तां सुतः पृच्छेत् प्रवासिनः (तथा प्रवासम् गतस्य पितुः विषये अतिथिम् प्रष्टुम् इच्छया एवम् कृतम् ।)
 
-OD.1.136   cherniba d' amphipolos prochoôi epecheue pherousa
-OD.1.136   A handmaid brought water for washing in a
+OD.1.136 दासी कलशमादाय करोदकं सिषेच सा (दास्या कलशः आनीतः । दास्या हस्तयोः प्रक्षालनाय जलम् सिक्तम् ।)
 
-OD.1.137   kalêi chruseiêi, huper argureoio lebêtos,
-OD.1.137   fine golden pitcher and poured it above a silver basin
+OD.1.137 चारुणा हैमकुम्भेन रौप्यपात्रे पयोऽसिचत् (दास्या सुन्दरेण सुवर्णकलशेन रजतपात्रस्य उपरि जलम् सिक्तम् ।)
 
-OD.1.138   nipsasthai: para de xestên etanusse trapezan.
-OD.1.138   so they could wash, then pulled a polished table beside them.
+OD.1.138 क्षालनाय तयोः पार्श्वे पीठं मृष्टं ततान सा (दास्या हस्तप्रक्षालनाय जलम् दत्तम् । तदनन्तरम् दास्या उभयोः समीपे श्लक्ष्णम् भोजनफलकम् स्थापितम् ।)
 
-OD.1.139   siton d' aidoiê tamiê parethêke pherousa,
-OD.1.139   A venerable housekeeper brought bread and set it before them
+OD.1.139 साध्वी भोज्यं समादाय न्यदधाद्गृहपालिका (पूज्यया गृहपालिकया अन्नम् आनीतम् । गृहपालिकया भोजनफलके अन्नम् स्थापितम् ।)
 
-OD.1.140   eidata poll' epitheisa, charizomenê pareontôn:
-OD.1.140   placing many foods on it, pleasing them from her stores.
+OD.1.140 निधाय बहुभक्ष्याणि सन्निहिताद्ददौ मुदा (गृहपालिकया बहूनि स्वादिष्टानि व्यञ्जनानि अपि भोजनफलके स्थापितानि । गृहपालिकया सन्तुष्टमनसा गृहस्थितात् अन्नात् उदारतया सर्वम् दत्तम् ।)
 
-OD.1.141   daitros de kreiôn pinakas parethêken aeiras
-OD.1.141   A carver raised and placed before them platters of meats
+OD.1.141 सूदः पिशितपात्राण्युद्यम्य पार्श्वे न्यवेशयत् (ततः सूदेन पिशितपात्राणि उत्थापितानि । सूदेन पिशितपात्राणि उभयोः भोजनफलके स्थापितानि ।)
 
-OD.1.142   pantoiôn, para de sphi tithei chruseia kupella:
-OD.1.142   of all kinds and put golden cups beside them.
+OD.1.142 नानाविधानि हैमांश्च चषकान् समुपादधात् (सूदेन नानाप्रकाराणाम् पिशितानाम् पात्राणि आनीतानि । सूदेन उभयोः पार्श्वे सुवर्णचषकाः अपि स्थापिताः ।)
 
-OD.1.143   kêrux d' autoisin tham' epôicheto oinochoeuôn.
-OD.1.143   A herald came often and poured wine for them.
+OD.1.143 तौ मुहुः समुपागच्छद्दूतः सिञ्चन्मधु द्वयोः (दूतः मुहुः उभयोः समीपम् उपस्थितः । दूतेन चषकेषु मद्यम् सिक्तम् ।)
 
-OD.1.144   es d' êlthon mnêstêres agênores. hoi men epeita
-OD.1.144   In came the manly suitors. Then, as they
+OD.1.144 प्राविशन् वरका दृप्ताः सदोऽथ ते ततः परम् (अथ उद्धताः वरकाः सदः प्रविष्टाः । तदनन्तरम् वरकाः आसनानि प्रति गताः ।)
 
 OD.1.145   hexeiês hezonto kata klismous te thronous te,
 OD.1.145   sat down in rows on chairs and couches,
