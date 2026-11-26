@@ -314,8 +314,7 @@ OD.1.156 अथिनामथ पिङ्गाक्षीं चिरमघ
 
 OD.1.157 शिरः समीपमाधत्त यथा न शृणुयुः परे (अन्ये न शृणुयुः इति तेलेमखेन अथिनायाः समीपम् शिरः धृतम् ।)
 
-OD.1.158   xeine phil', ei kai moi nemesêseai hotti ken eipô;
-OD.1.158   "Dear stranger, will you resent me for what I'm going to say?
+OD.1.158 किं कोपिष्यसि मह्यं त्वं यद्वक्ष्यामि प्रियातिथे (तेलेमखः - प्रिय अतिथे यत् अहम् वक्ष्यामि तेन किम् त्वम् मह्यम् कोपिष्यसि ।)
 
 OD.1.159   toutoisin men tauta melei, kitharis kai aoidê,
 OD.1.159   These things, the cithara and song, interest them
