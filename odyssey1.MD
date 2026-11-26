@@ -321,11 +321,9 @@ OD.1.160 सुखेनानिष्क्रयं यस्मादन्�
 
 OD.1.161 श्वेतान्यस्थीनि पूयन्ते यस्य पुंसः क्वचिद्घने (तेलेमखः - तस्य नरस्य श्वेतानि अस्थीनि कुत्रचित् वृष्टौ पूयन्ते ।)
 
-OD.1.162   keimen' ep' êpeirou, ê ein hali kuma kulindei.
-OD.1.162   lying on dry land or rolling in the waves of the sea.
+OD.1.162 शयानानि स्थले वापि वीचिर्लोलयतेऽर्णवे (तेलेमखः - अस्थीनि स्थलभूमौ शयानानि सन्ति । अथवा तरङ्गः समुद्रे अस्थीनि लोलयति ।)
 
-OD.1.163   ei keinon g' Ithakênde idoiato nostêsanta,
-OD.1.163   If they saw that one returning home to Ithaca,
+OD.1.163 रोषणश्चेदिथाकायामागच्छेदन्यथा भवेत् (तेलेमखः - यदि प्रार्थकाः इथाकाम् प्रत्यागतम् ओदुसेयम् पश्येयुः तर्हि सर्वम् अन्यथा भवेत् ।)
 
 OD.1.164   pantes k' arêsaiat' elaphroteroi podas einai
 OD.1.164   all would pray to be lighter on their feet
