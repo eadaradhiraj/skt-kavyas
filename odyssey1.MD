@@ -335,23 +335,17 @@ OD.1.167 यदि क्षितौ वसत्कश्चिदाश्व
 
 OD.1.168 एष्यतीति वदेत्कोऽपि प्रत्यावृत्तिदिनं गतम् (तेलेमखः - कश्चित् मनुष्यः ओदुसेयः आगमिष्यति इति वदेत् चेदपि ओदुसेयस्य प्रत्यागमनदिवसः नष्टः ।)
 
-OD.1.169   all' age moi tode eipe kai atrekeôs katalexon:
-OD.1.169   But come, tell me this, and recount it exactly.
+OD.1.169 किं त्वेतन्मह्यमाचक्ष्व यथातथ्यं च वर्णय (तेलेमखः - किन्तु इदम् मह्यम् ब्रूहि सत्यम् च कथय ।)
 
-OD.1.170   tis pothen eis andrôn; pothi toi polis êde tokêes;
-OD.1.170   What man and from where are you? Where are your city and parents?
+OD.1.170 कस्त्वं कुतो नरेभ्योऽसि पुरी च पितरौ क्व ते (तेलेमखः - त्वम् कः असि । मनुष्येभ्यः कुतः आगतः असि । तव नगरम् मातापितरौ च कुत्र स्तः ।)
 
-OD.1.171   hoppoiês d' epi nêos aphikeo: pôs de se nautai
-OD.1.171   In what kind of ship did you arrive and how did sailors
+OD.1.171 कीदृश्या त्वमिहायातो नावा च नाविकैः सह (तेलेमखः - त्वम् कीदृश्या नावा आगतः असि । नाविकैः त्वम् कथम् आनीतः असि ।)
 
-OD.1.172   êgagon eis Ithakên; tines emmenai euchetoônto;
-OD.1.172   bring you to Ithaca? Who did they claim to be?
+OD.1.172 नाविकैस्त्वमिथाकायां नीतः के तैरितीरितम् (तेलेमखः - नाविकैः त्वम् इथाकाम् आनीतः । नाविकैः आत्मानः के इति उक्तम् ।)
 
-OD.1.173   ou men gar ti se pezon oiomai enthad' hikesthai.
-OD.1.173   For I don't at all think you reached here on foot.
+OD.1.173 पद्भ्यां त्वमिह सम्प्राप्त इति मन्ये न कर्हिचित् (तेलेमखः - त्वम् पद्भ्याम् अत्र आगतः इति अहम् न मन्ये ।)
 
-OD.1.174   kai moi tout' agoreuson etêtumon, ophr' eu eidô,
-OD.1.174   And speak this truly to me, so I may know well
+OD.1.174 ब्रूहि सत्यमिदं मह्यं विद्यां सम्यगहं यथा (तेलेमखः - इदम् मह्यम् सत्यम् ब्रूहि येन अहम् सम्यक् जानीयाम् ।)
 
 OD.1.175   êe neon methepeis ê kai patrôios essi
 OD.1.175   whether you're just visiting or are also a hereditary
