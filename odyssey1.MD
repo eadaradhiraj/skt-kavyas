@@ -287,8 +287,7 @@ OD.1.143 तौ मुहुः समुपागच्छद्दूतः �
 
 OD.1.144 प्राविशन् वरका दृप्ताः सदोऽथ ते ततः परम् (अथ उद्धताः वरकाः सदः प्रविष्टाः । तदनन्तरम् वरकाः आसनानि प्रति गताः ।)
 
-OD.1.145   hexeiês hezonto kata klismous te thronous te,
-OD.1.145   sat down in rows on chairs and couches,
+OD.1.145 क्रमेण न्यविशन् सर्वे पीठेषूच्चासनेषु च (वरकाः क्रमेण पीठेषु उच्चासनेषु उपविष्टाः ।)
 
 OD.1.146   toisi de kêrukes men hudôr epi cheiras echeuan,
 OD.1.146   heralds poured water on their hands,
