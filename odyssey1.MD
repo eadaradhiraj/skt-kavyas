@@ -325,20 +325,15 @@ OD.1.162 शयानानि स्थले वापि वीचिर्�
 
 OD.1.163 रोषणश्चेदिथाकायामागच्छेदन्यथा भवेत् (तेलेमखः - यदि प्रार्थकाः इथाकाम् प्रत्यागतम् ओदुसेयम् पश्येयुः तर्हि सर्वम् अन्यथा भवेत् ।)
 
-OD.1.164   pantes k' arêsaiat' elaphroteroi podas einai
-OD.1.164   all would pray to be lighter on their feet
+OD.1.164 सर्वे ते प्रार्थयेरन्वै पादाभ्यां शीघ्रतां तदा (तेलेमखः - तदा सर्वे प्रार्थकाः पादाभ्याम् शीघ्रतराः भवितुम् इच्छेयुः ।)
 
-OD.1.165   ê aphneioteroi chrusoio te esthêtos te.
-OD.1.165   than to be richer in raiment and gold.
+OD.1.165 न वस्त्रेण सुवर्णेन धनाढ्यतरतां तथा (तेलेमखः - प्रार्थकाः सुवर्णेन वस्त्रेण च अधिकधनवन्तः भवितुम् न इच्छेयुः ।)
 
-OD.1.166   nun d' ho men hôs apolôle kakon moron, oude tis hêmin
-OD.1.166   Now he's perished by an evil fate, and we have no
+OD.1.166 नष्टो दुर्मरणेनाद्य नाश्वासोऽस्माकमस्ति च (तेलेमखः - इदानीम् तु ओदुसेयः एवम् दुष्टमरणेन नष्टः । अस्मभ्यम् कश्चित् आश्वासः न अस्ति ।)
 
-OD.1.167   thalpôrê, ei per tis epichthoniôn anthrôpôn
-OD.1.167   comfort, even if some earthly man
+OD.1.167 यदि क्षितौ वसत्कश्चिदाश्वासं दातुमिच्छति (तेलेमखः - यदि पृथिव्याम् वसताम् मनुष्याणाम् कश्चित् आश्वासम् दद्यात् तथापि अस्मभ्यम् सुखम् न भवेत् ।)
 
-OD.1.168   phêisin eleusesthai: tou d' ôleto nostimon êmar.
-OD.1.168   tells us he will come. His day of homecoming is done for.
+OD.1.168 एष्यतीति वदेत्कोऽपि प्रत्यावृत्तिदिनं गतम् (तेलेमखः - कश्चित् मनुष्यः ओदुसेयः आगमिष्यति इति वदेत् चेदपि ओदुसेयस्य प्रत्यागमनदिवसः नष्टः ।)
 
 OD.1.169   all' age moi tode eipe kai atrekeôs katalexon:
 OD.1.169   But come, tell me this, and recount it exactly.
