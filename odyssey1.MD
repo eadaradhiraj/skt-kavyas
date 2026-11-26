@@ -289,8 +289,7 @@ OD.1.144 प्राविशन् वरका दृप्ताः सद�
 
 OD.1.145 क्रमेण न्यविशन् सर्वे पीठेषूच्चासनेषु च (वरकाः क्रमेण पीठेषु उच्चासनेषु उपविष्टाः ।)
 
-OD.1.146   toisi de kêrukes men hudôr epi cheiras echeuan,
-OD.1.146   heralds poured water on their hands,
+OD.1.146 तेषां दूताः समेत्याथ हस्तयोरसिचन् पयः (ततः दूतैः वरकाणाम् हस्तयोः जलम् सिक्तम् ।)
 
 OD.1.147   siton de dmôiai parenêneon en kaneoisi,
 OD.1.147   slaves heaped bread in baskets beside them,
