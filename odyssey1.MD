@@ -372,23 +372,17 @@ OD.1.186 स्रोतोघट्टे सुतीर्थेऽस्म�
 
 OD.1.187 पैतृकावतिथी ब्रूवः स्वयमावां परस्परम् (अथिनादेवी - आवाम् परस्परम् पैतृकौ अतिथी स्वः इति वदावः ।)
 
-OD.1.188   ex archês, ei per te geront' eirêai epelthôn
-OD.1.188   from of old. Just go and ask the old man,
+OD.1.188 आद्याज्ज्ञास्यसि वृद्धं त्वं पृच्छन्नुपगतो यदि (अथिनादेवी - यदि त्वम् उपगम्य वृद्धम् पृच्छसि तर्हि आदितः एव सर्वम् ज्ञास्यसि ।)
 
-OD.1.189   Laertên hêrôa, ton ouketi phasi polinde
-OD.1.189   hero Laertes, whom they say no longer comes
+OD.1.189 वीरं लोकेरमाहुर्यं न यान्तं नगरं प्रति (अथिनादेवी - सः वृद्धः वीरः लायेर्तेसः अस्ति । जनाः वदन्ति यत् लायेर्तेसः अधुना नगरम् न आगच्छति ।)
 
-OD.1.190   erchesth', all' apaneuthen ep' agrou pêmata paschein
-OD.1.190   to town, but suffers misery on his farm far away,
+OD.1.190 आयान्तं तु पृथक् क्षेत्रे दुःखान्यनुभवत्यसौ (अथिनादेवी - किन्तु लायेर्तेसः एकाकी क्षेत्रे दुःखानि अनुभवति ।)
 
-OD.1.191   grêi sun amphipolôi, hê hoi brôsin te posin te
-OD.1.191   with an old woman handmaid who puts food and drink
+OD.1.191 वृद्धया दास्यया सार्धं यान्नं पानं ददाति वै (अथिनादेवी - लायेर्तेसः वृद्धया सेविकया सह निवसति । सा वृद्धा सेविका लायेर्तेसाय भोजनम् पानम् च ददाति ।)
 
-OD.1.192   partithei, eut' an min kamatos kata guia labêisin
-OD.1.192   beside him whenever exhaustion takes hold of his limbs,
+OD.1.192 पार्श्वे यदा श्रमो गात्राण्यस्य गृह्णाति सर्वशः (अथिनादेवी - यदा तस्य अङ्गेषु श्रमः प्रविशति तदा सा सेविका भोजनम् पानम् च पार्श्वे स्थापयति ।)
 
-OD.1.193   herpuzont' ana gounon alôês oinopedoio.
-OD.1.193   as he crawls up the hill of his wine-bearing plot.
+OD.1.193 द्राक्षाक्षेत्रस्य सानौ तु तस्य सञ्चरतः शनैः (अथिनादेवी - यदा सः द्राक्षाक्षेत्रस्य उच्चभूमौ शनैः चरति ।)
 
 OD.1.194   nun d' êlthon: dê gar min ephant' epidêmion einai,
 OD.1.194   Now I've come, for they said your father was at home,
