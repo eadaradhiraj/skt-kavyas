@@ -352,36 +352,25 @@ OD.1.176 अतिथिर्हि नरा यस्माद्बहवो
 
 OD.1.177 अन्येऽप्यायन्यतस्तत्र रोषणोऽप्यचरन्नृभिः (तेलेमखः - अन्ये नराः अपि आगताः यतः ओदुसेयः अपि मनुष्यैः सह मिलितः ।)
 
+OD.1.178 सा पिङ्गाक्ष्यथिना देवी तं चिरमघमब्रवीत् (ततः पिङ्गाक्ष्या अथिनादेव्या तेलेमाखः प्रत्युक्तः ।)
 
-OD.1.178   ton d' aute proseeipe thea glaukôpis Athênê:
-OD.1.178   Bright-eyed goddess Athena said back to him:
+OD.1.179 अतोऽहं सत्यमेवैतच्चिरमघ प्रवच्मि ते (अथिनादेवी - अहम् एतानि वस्तूनि तेलेमाखाय सत्यम् कथयिष्यामि ।)
 
-OD.1.179   toigar egô toi tauta mal' atrekeôs agoreusô.
-OD.1.179   "So then, I'll tell this to you quite exactly.
+OD.1.180 मनस्वी धीमतो वच्मि सुतोऽंहुसलिलस्य वै (अथिनादेवी - अहम् बुद्धिमतः अङ्खियालस्य पुत्रः मेन्तेसः अस्मि इति कथयामि ।)
 
-OD.1.180   Mentês Anchialoio daïphronos euchomai einai
-OD.1.180   I claim I'm Mentes, son of skilled Anchialus,
+OD.1.181 अहं प्रशास्मि ताफीयानरित्रप्रणयान् सदा (अथिनादेवी - अहम् अरित्रप्रियाणाम् ताफीयानाम् राजा अस्मि ।)
 
-OD.1.181   huios, atar Taphioisi philêretmoisin anassô.
-OD.1.181   and I rule over the oar-loving Taphians.
+OD.1.182 अधुनाहं सुहृद्युक्तो नावात्र समुपागतः (अथिनादेवी - अहम् अधुना नावा सखिभिः सह अत्र आगतः अस्मि ।)
 
-OD.1.182   nun d' hôde xun nêi katêluthon êd' hetaroisi
-OD.1.182   I've come this way now with my ship and comrades,
+OD.1.183 मदिराभं तरन्सिन्धुं भिन्नभाषान्नरान् प्रति (अथिनादेवी - अहम् मदिरावर्णम् समुद्रम् प्लवमानः भिन्नभाषान् जनान् प्रति गच्छामि ।)
 
-OD.1.183   pleôn epi oinopa ponton ep' allothroous anthrôpous,
-OD.1.183   sailing on the wine-dark sea to men of another language,
+OD.1.184 तेमेसां ताम्रलाभाय यामि दीप्तं वहन्नयः (अथिनादेवी - अहम् ताम्रम् आनयितुम् तेमेसाम् प्रति गच्छामि । अहम् दीप्तम् लौहम् नयामि ।)
 
-OD.1.184   es Temesên meta chalkon, agô d' aithôna sidêron.
-OD.1.184   to Temese, after copper, and I bring gleaming iron.
+OD.1.185 नौर्ममेयं स्थिता क्षेत्रे नगरात् सुविदूरतः (अथिनादेवी - मम इयम् नौः नगरात् दूरे क्षेत्रे स्थिता अस्ति ।)
 
-OD.1.185   nêus de moi hêd' hestêken ep' agrou nosphi polêos,
-OD.1.185   My ship stands over there, in the country, away from the city,
+OD.1.186 स्रोतोघट्टे सुतीर्थेऽस्मिन्सवृक्षनाव्यगिर्यधः (अथिनादेवी - मम नौः सवृक्षस्य नेइयनपर्वतस्य अधः रेइथ्रोनतीर्थे स्थिता अस्ति ।)n.
 
-OD.1.186   en limeni Rheithrôi hupo Nêiôi hulêenti.
-OD.1.186   in Rheithron harbor beneath wooded Neion.
-
-OD.1.187   xeinoi d' allêlôn patrôioi euchometh' einai
-OD.1.187   We claim that we're hereditary guest-friends of each other
+OD.1.187 पैतृकावतिथी ब्रूवः स्वयमावां परस्परम् (अथिनादेवी - आवाम् परस्परम् पैतृकौ अतिथी स्वः इति वदावः ।)
 
 OD.1.188   ex archês, ei per te geront' eirêai epelthôn
 OD.1.188   from of old. Just go and ask the old man,
